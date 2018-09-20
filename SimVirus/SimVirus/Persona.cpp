@@ -2,10 +2,11 @@
 
 Persona::Persona()
 {
+
 }
 
-Persona::Persona(int X, int Y, bool bornInfected) {
-	infectado = bornInfected;
+Persona::Persona(int X, int Y, int estadoInicial) {
+	estado = estadoInicial;
 	posicion = make_pair(X, Y);
 }
 
@@ -13,29 +14,12 @@ Persona::~Persona()
 {
 }
 
-void Persona::setCurado(bool estado) {
-	curado = estado;
+void Persona::setEstado(int nuevoEstado)
+{
+	estado = nuevoEstado;
 }
 
-void Persona::setInfectado(bool estado) {
-	infectado = estado;
-}
 
-void Persona::setMuerto(bool estado) {
-	muerto = estado;
-}
-
-void Persona::setPosicion(int X, int Y) {
-	posicion = make_pair(X, Y);
-}
-
-bool Persona::getCurado() {
-	return curado;
-}
-
-bool Persona::getInfectado() {
-	return infectado;
-}
 
 int Persona::getContadorEnfermo()
 {
@@ -47,8 +31,14 @@ void Persona::setContadorEnfermo(int newContador)
 	contadorEnfermo = newContador;
 }
 
-bool Persona::getMuerto() {
-	return muerto;
+void Persona::setPosicion(int x, int y)
+{
+	posicion = make_pair(x, y);
+}
+
+int Persona::getEstado()
+{
+	return estado;
 }
 
 pair<int,int> Persona::getPosicion() {

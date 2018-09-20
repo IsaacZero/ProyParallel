@@ -8,18 +8,18 @@ Simulador::Simulador()
 	//no usarse
 }
 
-Simulador::Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño) {
+Simulador::Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño, int totalTics) {
 	cantPersonas = personas;
 	cantInfectados = infectados;
 	probaInfec = potInfecc;
 	probaRecup = potRecup;
+	cantTics = totalTics;
 	vector<int> filas;
 	filas.resize(tamaño, 0);
-	cuadricula.resize(tamaño, filas);
+	cuadriculaDeInfeccion.resize(tamaño, filas);
 	cantTics = 0;
 	cantMuertos = 0;
 	cantRecuperados = 0;
-	civilizacion.reserve(personas);
 	Persona* ciudadano;
 	default_random_engine generator;
 	uniform_int_distribution<int> distribution(0, tamaño);
@@ -28,15 +28,15 @@ Simulador::Simulador(int personas,int infectados, double potInfecc, double potRe
 	//Pensar si mejor crear un metodo para darle ubicacion o usar punteros, más pesado eso si.
 	for (int i = 0; i < personas; i++) {
 		if (i < infectados) {
-			ciudadano = new Persona(x, y, true);
+			ciudadano = new Persona(x, y, 1);
 			civilizacion.push_back(*ciudadano);
-			cuadricula[x][y]++;
+			cuadriculaDeInfeccion[x][y]++;
 		}
 		else
 		{
 			x = distribution(generator);
 			y = distribution(generator);
-			ciudadano = new Persona(x, y, false);
+			ciudadano = new Persona(x, y, 0);
 			civilizacion.push_back(*ciudadano);
 		}
 	}

@@ -3,12 +3,13 @@
 #include <omp.h>
 #include "Persona.h"
 #include <random>
+#include <list>
 
 class Simulador
 {
 public:
 	Simulador();
-	Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño);
+	Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño, int totalTics);
 	virtual ~Simulador();
 
 	
@@ -55,8 +56,8 @@ public:
 	double getProbaRecup();
 
 private:
-	vector<Persona> civilizacion;
-	vector<vector<int>> cuadricula;
+	list<Persona> civilizacion;
+	vector<vector<int>> cuadriculaDeInfeccion;
 	int cantTics;
 	double probaInfec;
 	double probaRecup;
