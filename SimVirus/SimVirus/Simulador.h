@@ -8,9 +8,10 @@ class Simulador
 {
 public:
 	Simulador();
-	Simulador(int personas, double potInfecc, double potRecup, int totTics, int tamaño);
+	Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño);
 	virtual ~Simulador();
 
+	
 	//EFE: Cambia la cantidad de muertos en el vector de personas.
 	//MOD: Int cantMuertos.
 	void setCantMuertos(int killThem);
@@ -55,6 +56,7 @@ public:
 
 private:
 	vector<Persona> civilizacion;
+	vector<vector<int>> cuadricula;
 	int cantTics;
 	double probaInfec;
 	double probaRecup;

@@ -1,29 +1,50 @@
 #include "Simulador.h"
-
+#include <random>
+#include <time.h>
 
 
 Simulador::Simulador()
 {
+	//no usarse
 }
 
-Simulador::Simulador(int personas, double potInfecc, double potRecup, int totTics, int tamaño) {
+Simulador::Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño) {
 	cantPersonas = personas;
+	cantInfectados = infectados;
 	probaInfec = potInfecc;
 	probaRecup = potRecup;
-	cantTics = totTics;
-	//Agregar la funcion que lo vuelve infeccioso, no creo que se pueda paralelizar el random.
-	//Pensar si mejor crear un metodo para darle ubicacion o usar punteros, más pesado eso si.
-	/*bool bornInfected;
+	vector<int> filas;
+	filas.resize(tamaño, 0);
+	cuadricula.resize(tamaño, filas);
+	cantTics = 0;
+	cantMuertos = 0;
+	cantRecuperados = 0;
+	civilizacion.reserve(personas);
+	Persona* ciudadano;
 	default_random_engine generator;
 	uniform_int_distribution<int> distribution(0, tamaño);
-	int X = distribution(generator);
-	int Y = distribution(generator);
-	Persona* ciudadano = new Persona(X, Y, bornInfected);
-	civilizacion.resize(cantPersonas);*/
+	int x, y;
+	//Agregar la funcion que lo vuelve infeccioso, no creo que se pueda paralelizar el random.
+	//Pensar si mejor crear un metodo para darle ubicacion o usar punteros, más pesado eso si.
+	for (int i = 0; i < personas; i++) {
+		if (i < infectados) {
+			ciudadano = new Persona(x, y, true);
+			civilizacion.push_back(*ciudadano);
+			cuadricula[x][y]++;
+		}
+		else
+		{
+			x = distribution(generator);
+			y = distribution(generator);
+			ciudadano = new Persona(x, y, false);
+			civilizacion.push_back(*ciudadano);
+		}
+	}
 }
 
 Simulador::~Simulador()
 {
+
 }
 
 void Simulador::setCantMuertos(int killThem) {
