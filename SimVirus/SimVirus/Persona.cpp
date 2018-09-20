@@ -37,6 +37,16 @@ bool Persona::getInfectado() {
 	return infectado;
 }
 
+int Persona::getContadorEnfermo()
+{
+	return contadorEnfermo;
+}
+
+void Persona::setContadorEnfermo(int newContador)
+{
+	contadorEnfermo = newContador;
+}
+
 bool Persona::getMuerto() {
 	return muerto;
 }

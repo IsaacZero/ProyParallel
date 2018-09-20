@@ -28,6 +28,10 @@ public:
 	//MOD: Pair posicion.
 	void setPosicion(int newX, int newY);
 
+	//EFE: Cambia el contador de semanas que lleva una persona enferma
+	//MOD: contadorEnfermo
+	void setContadorEnfermo(int newContador);
+
 	//EFE: Retorna true si la persona esta muerta o false en caso contrario.
 	bool getMuerto();
 
@@ -37,12 +41,16 @@ public:
 	//EFE: Retorna true si la persona esta infectada o false en caso contrario.
 	bool getInfectado();
 
+	//EFE: Retorna el contador de semanas que lleva una persona enferma
+	int getContadorEnfermo();
+
 	//EFE: Retorna la posicion de la persona en un pair.
-	pair<int,int> getPosicion();
+	pair<int, int> getPosicion();
 
 private:
 	bool muerto;
 	bool curado;
 	bool infectado;
-	pair <int,int> posicion;
+	int contadorEnfermo;
+	pair <int, int> posicion;
 };
