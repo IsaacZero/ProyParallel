@@ -17,27 +17,35 @@ Simulador::Simulador(int personas,int infectados, double potInfecc, double potRe
 	vector<int> filas;
 	filas.resize(tamaño, 0);
 	cuadriculaDeInfeccion.resize(tamaño, filas);
-	cantTics = 0;
+	ticActual = 0;
 	cantMuertos = 0;
 	cantRecuperados = 0;
-	Persona* ciudadano;
+	shared_ptr<Persona> ciudadano;
 	default_random_engine generator;
 	uniform_int_distribution<int> distribution(0, tamaño);
 	int x, y;
 	//Agregar la funcion que lo vuelve infeccioso, no creo que se pueda paralelizar el random.
 	//Pensar si mejor crear un metodo para darle ubicacion o usar punteros, más pesado eso si.
-	for (int i = 0; i < personas; i++) {
-		if (i < infectados) {
-			ciudadano = new Persona(x, y, 1);
-			civilizacion.push_back(*ciudadano);
-			cuadriculaDeInfeccion[x][y]++;
-		}
-		else
-		{
-			x = distribution(generator);
-			y = distribution(generator);
-			ciudadano = new Persona(x, y, 0);
-			civilizacion.push_back(*ciudadano);
+#pragma omp parallel num_threads(omp_get_max_threads()) private(ciudadano,x,y)
+	{
+		for (int i = 0; i < personas; i++) {
+			if (i < infectados) {
+				x = distribution(generator);
+				y = distribution(generator);
+				ciudadano = shared_ptr<Persona>(new Persona(x,y,1));
+#pragma omp critical
+				civilizacion.push_back(ciudadano);
+#pragma omp atomic
+				cuadriculaDeInfeccion[x][y]++;
+			}
+			else
+			{
+				x = distribution(generator);
+				y = distribution(generator);
+				ciudadano = shared_ptr<Persona>(new Persona(x, y, 0));
+#pragma omp critical
+				civilizacion.push_back(ciudadano);
+			}
 		}
 	}
 }

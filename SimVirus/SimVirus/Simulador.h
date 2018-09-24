@@ -4,6 +4,7 @@
 #include "Persona.h"
 #include <random>
 #include <list>
+#include <memory>
 
 class Simulador
 {
@@ -56,9 +57,10 @@ public:
 	double getProbaRecup();
 
 private:
-	list<Persona> civilizacion;
+	list<shared_ptr<Persona>> civilizacion;
 	vector<vector<int>> cuadriculaDeInfeccion;
 	int cantTics;
+	int ticActual;
 	double probaInfec;
 	double probaRecup;
 	double promInfec;

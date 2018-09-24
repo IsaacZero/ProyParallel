@@ -25,10 +25,11 @@ public:
 	//EFE: Retorna el contador de semanas que lleva una persona enferma
 	int getContadorEnfermo();
 	//EFE: Retorna la posicion de la persona en un pair.
-	pair<int, int> getPosicion();
+	pair<int, int> getPosicion();.3
+
 
 private:
-	int estado;
+	int estado;//0 y 3 donde 0 = sano, 1 = infectado, 2 = immune, 3 = muerto;
 	int contadorEnfermo;
 	pair <int, int> posicion;
 };
