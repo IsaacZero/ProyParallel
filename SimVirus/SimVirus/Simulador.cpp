@@ -89,25 +89,44 @@ void Simulador::calcularInfeciones() {
 	double x;
 	default_random_engine generator;
 	uniform_real_distribution<double> distribution(0.0, 1.0);
-#pragma omp parallel for(omp_get_max_threads()) private(x,contador) shared(civilizacion,cuadriculaDeInfeccion)
+#pragma omp parallel for(omp_get_max_threads()) private(x,contador) shared(cantMuertos,cantRecuperados,cantInfectados,civilizacion,cuadriculaDeInfeccion)
 	for (list<Persona>::iterator it = civilizacion.begin(); it != civilizacion.end(); ++it) {
 		if (it->getEstado() == 0 && (cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second] > 0)){
 			contador = cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second];
 			while (it->getEstado() != 0 && (contador > 0)) {
 				x = distribution(generator);
-				if (x <= probaInfec)
+				if (x <= probaInfec) {
 					it->setEstado(1);
+#pragma omp atomic
+					cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second]++;
+#pragma omp atomic
+					cantInfectados++;
+				}
 				contador--;
 			}
 		}
 		else if (it->getEstado() == 1) {
 			x = distribution(generator);
-			if (x <= probaRecup)
+			if (x <= probaRecup) {
 				it->setEstado(2);
+#pragma omp atomic
+				cantRecuperados++;
+#pragma omp atomic
+				cantInfectados--;
+#pragma omp atomic
+				cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second]--;
+			}
 			else
 				it->setContadorEnfermo(it->getContadorEnfermo()+1);
-			if (it->getContadorEnfermo() == 20)
+			if (it->getContadorEnfermo() == 20) {
 				it->setEstado(3);
+#pragma omp atomic
+				cantMuertos++;
+#pragma omp atomic
+				cantInfectados--;
+#pragma omp atomic
+				cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second]--;
+			}
 		}
 	}
 }
