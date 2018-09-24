@@ -1,6 +1,4 @@
 #include "Simulador.h"
-#include <random>
-#include <time.h>
 
 
 Simulador::Simulador()
@@ -20,19 +18,18 @@ Simulador::Simulador(int personas,int infectados, double potInfecc, double potRe
 	ticActual = 0;
 	cantMuertos = 0;
 	cantRecuperados = 0;
-	shared_ptr<Persona> ciudadano;
 	default_random_engine generator;
 	uniform_int_distribution<int> distribution(0, tamaño);
 	int x, y;
 	//Agregar la funcion que lo vuelve infeccioso, no creo que se pueda paralelizar el random.
 	//Pensar si mejor crear un metodo para darle ubicacion o usar punteros, más pesado eso si.
-#pragma omp parallel num_threads(omp_get_max_threads()) private(ciudadano,x,y)
+#pragma omp parallel num_threads(omp_get_max_threads()) private(x,y) shared(civilizacion)
 	{
 		for (int i = 0; i < personas; i++) {
 			if (i < infectados) {
 				x = distribution(generator);
 				y = distribution(generator);
-				ciudadano = shared_ptr<Persona>(new Persona(x,y,1));
+				Persona ciudadano(x, y, 1);
 #pragma omp critical
 				civilizacion.push_back(ciudadano);
 #pragma omp atomic
@@ -42,7 +39,7 @@ Simulador::Simulador(int personas,int infectados, double potInfecc, double potRe
 			{
 				x = distribution(generator);
 				y = distribution(generator);
-				ciudadano = shared_ptr<Persona>(new Persona(x, y, 0));
+				Persona ciudadano(x, y, 0);
 #pragma omp critical
 				civilizacion.push_back(ciudadano);
 			}
