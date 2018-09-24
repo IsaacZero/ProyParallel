@@ -26,7 +26,7 @@ public:
 	int getContadorEnfermo();
 	//EFE: Retorna la posicion de la persona en un pair.
 	pair<int, int> getPosicion();
-
+	
 
 private:
 	int estado;//0 y 3 donde 0 = sano, 1 = infectado, 2 = immune, 3 = muerto;

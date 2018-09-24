@@ -4,6 +4,7 @@
 #include "Persona.h"
 #include <random>
 #include <list>
+#include <utility>
 
 class Simulador
 {
@@ -12,6 +13,15 @@ public:
 	Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño, int totalTics);
 	virtual ~Simulador();
 
+	//EFE: Realiza los movimientos en un tic.
+	//REQ: Simulador inicializado.
+	//MOD: cuadriculaDeInfeccion, la civilizacion change for ever.
+	void generarTic();
+
+	//EFE: Calcula los nuevos infectados, curados y muertos.
+	//REQ: Simulador inicializado.
+	//MOD: cuadriculaDeInfectados y la civilizacion.
+	void calcularInfeciones();
 	
 	//EFE: Cambia la cantidad de muertos en el vector de personas.
 	//MOD: Int cantMuertos.
