@@ -6,16 +6,15 @@ Simulador::Simulador()
 	//no usarse
 }
 
-Simulador::Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño, int totalTics) {
+Simulador::Simulador(int personas,int infectados, int cntMuerte, double potInfecc, double potRecup, int tamaño) {
 	cantPersonas = personas;
 	cantInfectados = infectados;
 	probaInfec = potInfecc;
 	probaRecup = potRecup;
-	cantTics = totalTics;
+	ticsBeforeDoom = cntMuerte;
 	vector<int> filas;
 	filas.resize(tamaño, 0);
 	cuadriculaDeInfeccion.resize(tamaño, filas);
-	ticActual = 0;
 	cantMuertos = 0;
 	cantRecuperados = 0;
 	default_random_engine generator;
@@ -118,7 +117,7 @@ void Simulador::calcularInfeciones() {
 			}
 			else
 				it->setContadorEnfermo(it->getContadorEnfermo()+1);
-			if (it->getContadorEnfermo() == 20) {
+			if (it->getContadorEnfermo() == ticsBeforeDoom) {
 				it->setEstado(3);
 #pragma omp atomic
 				cantMuertos++;
@@ -147,6 +146,11 @@ void Simulador::setCantPersonas(int giveBirth) {
 	cantPersonas = giveBirth;
 }
 
+void Simulador::setTicsBeforeDoom(int prophecy)
+{
+	ticsBeforeDoom = prophecy;
+}
+
 void Simulador::setProbaInfec(double infeccioso) {
 	probaInfec = infeccioso;
 }
@@ -169,6 +173,11 @@ int Simulador::getCantRecup() {
 
 int Simulador::getCantPersonas() {
 	return cantPersonas;
+}
+
+int Simulador::getTicsBeforeDoom()
+{
+	return ticsBeforeDoom;
 }
 
 double Simulador::getProbaInfec() {

@@ -10,7 +10,7 @@ class Simulador
 {
 public:
 	Simulador();
-	Simulador(int personas,int infectados, double potInfecc, double potRecup, int tamaño, int totalTics);
+	Simulador(int personas,int infectados, int cntMuerte, double potInfecc, double potRecup, int tamaño);
 	virtual ~Simulador();
 
 	//EFE: Realiza los movimientos en un tic.
@@ -39,6 +39,10 @@ public:
 	//MOD: Int cantPersonas.
 	void setCantPersonas(int giveBirth);
 	
+	//EFE: Cambia la cantidad de dias para la profecia final.
+	//MOD: Int ticsBeforeDoom.
+	void setTicsBeforeDoom(int prophecy);
+
 	//EFE: Cambia el porcentaje de infeccion.
 	//MOD: Double probaInfec.
 	void setProbaInfec(double infeccioso);
@@ -59,6 +63,9 @@ public:
 	//EFE: Retorna cantPersonas.
 	int getCantPersonas();
 
+	//EFE: Retorna ticsBeforeDoom.
+	int getTicsBeforeDoom();
+
 	//EFE: Retorna la probabilidad de Infeccion.
 	double getProbaInfec();
 
@@ -68,17 +75,12 @@ public:
 private:
 	list<Persona> civilizacion;
 	vector<vector<int>> cuadriculaDeInfeccion;
-	int cantTics;
-	int ticActual;
 	double probaInfec;
 	double probaRecup;
-	double promInfec;
-	double promRecup;
-	double promMuertos;
-	double promCantPersonas;
 	int cantMuertos;
 	int cantInfectados;
 	int cantRecuperados;
 	int cantPersonas;
+	int ticsBeforeDoom;
 };
 
