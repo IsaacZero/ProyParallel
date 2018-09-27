@@ -26,7 +26,7 @@ int main(int argc, char* argv[]) {
 	double promMuertos = 0.0;
 	double promCantPersonas = 0.0;
 	infectados = muertos = susceptiblesTic = recuperados = susceptibles = 0;
-	while (!validaCntInfectados(infectados) || !validaCntPersonas(personas) || validaCntTics(totalTics) ||
+	while (!validaCntInfectados(infectados) || !validaCntPersonas(personas) || !validaCntTics(totalTics) ||
 		!validaProbRec(potRecup) || !validaProInfec(potInfecc) || !validaSize(size) || !validaCntMuerte(cntMuerte)){
 		cout << "Digite la cantidad de Personas" << endl;
 		cin >> personas;
@@ -91,10 +91,11 @@ int main(int argc, char* argv[]) {
 		archivoSalida << "Promedio del Porcentaje: " << (double(promCantPersonas) / i) << endl;
 		archivoSalida << "Promedio de Personas Infectadas: " << (double(infectados) / i) << endl;
 		archivoSalida << "Promedio del Porcentaje: " << (double(promInfec) / i) << endl;
-		archivoSalida << "Muertos: " << (double(muertos) / i) << endl;
-		archivoSalida << "Promedio del Porcentaje: " << (double(promCantPersonas) / i) << endl;
-		archivoSalida << "Recuperados: " << (double(recuperados) / i) << endl;
-		archivoSalida << "Promedio del Porcentaje: " << (double(promCantPersonas) / i) << endl;
+		archivoSalida << "Promedio de Personas Muertas: " << (double(muertos) / i) << endl;
+		archivoSalida << "Promedio del Porcentaje: " << (double(promMuertos) / i) << endl;
+		archivoSalida << "Promedio de Personas Recuperadas: " << (double(recuperados) / i) << endl;
+		archivoSalida << "Promedio del Porcentaje: " << (double(promRecup) / i) << endl;
+		archivoSalida << endl;
 	}
 	cin >> personas;
 	return 0;
