@@ -6,12 +6,13 @@ Simulador::Simulador()
 	//no usarse
 }
 
-Simulador::Simulador(int personas,int infectados, int cntMuerte, double potInfecc, double potRecup, int tamaño) {
+Simulador::Simulador(int personas, int infectados, int cntMuerte, double potInfecc, double potRecup, int tamaño) {
 	cantPersonas = personas;
 	cantInfectados = infectados;
 	probaInfec = potInfecc;
 	probaRecup = potRecup;
 	ticsBeforeDoom = cntMuerte;
+	civilizacion.reserve(personas);
 	vector<int> filas;
 	filas.resize(tamaño, 0);
 	cuadriculaDeInfeccion.resize(tamaño, filas);
@@ -22,27 +23,20 @@ Simulador::Simulador(int personas,int infectados, int cntMuerte, double potInfec
 	int x, y;
 	//Agregar la funcion que lo vuelve infeccioso, no creo que se pueda paralelizar el random.
 	//Pensar si mejor crear un metodo para darle ubicacion o usar punteros, más pesado eso si.
-#pragma omp parallel num_threads(omp_get_max_threads()) private(x,y) shared(civilizacion)
-	{
-		for (int i = 0; i < personas; i++) {
-			if (i < infectados) {
-				x = distribution(generator);
-				y = distribution(generator);
-				Persona ciudadano(x, y, 1);
-#pragma omp critical
-				civilizacion.push_back(ciudadano);
+#pragma omp parallel for num_threads(omp_get_max_threads()) private(x,y) //shared(civilizacion)
+	for (int i = 0; i < personas; i++) {
+		Persona ciudadano(0, 0, 0);
+		x = distribution(generator);
+		y = distribution(generator);
+		ciudadano.setPosicion(x, y);
+		if (i < infectados) {
+			ciudadano.setEstado(1);
 #pragma omp atomic
-				cuadriculaDeInfeccion[x][y]++;
-			}
-			else
-			{
-				x = distribution(generator);
-				y = distribution(generator);
-				Persona ciudadano(x, y, 0);
-#pragma omp critical
-				civilizacion.push_back(ciudadano);
-			}
+			cuadriculaDeInfeccion[x][y]++;
 		}
+#pragma omp critical
+		civilizacion.push_back(ciudadano);
+
 	}
 }
 
@@ -56,24 +50,24 @@ void Simulador::generarTic() {
 	pair<int, int> location;
 	default_random_engine generator;
 	uniform_int_distribution<int> distribution(0, 1);
-#pragma omp parallel for(omp_get_max_threads()) private (x, y, location) shared(civilizacion, cuadriculaDeInfeccion)
-	for (list<Persona>::iterator it = civilizacion.begin(); it != civilizacion.end(); ++it){
-		if (it->getEstado() < 3) {
+#pragma omp parallel for num_threads(omp_get_max_threads()) private (x, y, location)// shared(civilizacion, cuadriculaDeInfeccion)
+	for (int i = 0; i < civilizacion.size(); i++) {
+		if (civilizacion[i].getEstado() < 3) {
 			x = distribution(generator);
 			if (x == 0)
 				x = -1;
 			y = distribution(generator);
 			if (y == 0)
 				y = -1;
-			location = it->getPosicion();
+			location = civilizacion[i].getPosicion();
 			x = (x + location.first) % cuadriculaDeInfeccion.size();
 			if (x == -1)
 				x += cuadriculaDeInfeccion.size();
 			y = (y + location.second) % cuadriculaDeInfeccion.size();
 			if (y == -1)
 				y += cuadriculaDeInfeccion.size();
-			it->setPosicion(x, y);
-			if (it->getEstado() == 1) {
+			civilizacion[i].setPosicion(x, y);
+			if (civilizacion[i].getEstado() == 1) {
 #pragma omp atomic
 				cuadriculaDeInfeccion[location.first][location.second]--;
 #pragma omp atomic
@@ -88,43 +82,43 @@ void Simulador::calcularInfeciones() {
 	double x;
 	default_random_engine generator;
 	uniform_real_distribution<double> distribution(0.0, 1.0);
-#pragma omp parallel for(omp_get_max_threads()) private(x,contador) shared(cantMuertos,cantRecuperados,cantInfectados,civilizacion,cuadriculaDeInfeccion)
-	for (list<Persona>::iterator it = civilizacion.begin(); it != civilizacion.end(); ++it) {
-		if (it->getEstado() == 0 && (cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second] > 0)){
-			contador = cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second];
-			while (it->getEstado() != 0 && (contador > 0)) {
+#pragma omp parallel for num_threads(omp_get_max_threads()) private(x,contador)// shared(cantMuertos,cantRecuperados,cantInfectados,civilizacion,cuadriculaDeInfeccion)
+	for (int i = 0; i < civilizacion.size(); i++) {
+		if (civilizacion[i].getEstado() == 0 && (cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second] > 0)) {
+			contador = cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second];
+			while (civilizacion[i].getEstado() != 0 && (contador > 0)) {
 				x = distribution(generator);
 				if (x <= probaInfec) {
-					it->setEstado(1);
+					civilizacion[i].setEstado(1);
 #pragma omp atomic
-					cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second]++;
+					cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second]++;
 #pragma omp atomic
 					cantInfectados++;
 				}
 				contador--;
 			}
 		}
-		else if (it->getEstado() == 1) {
+		else if (civilizacion[i].getEstado() == 1) {
 			x = distribution(generator);
 			if (x <= probaRecup) {
-				it->setEstado(2);
+				civilizacion[i].setEstado(2);
 #pragma omp atomic
 				cantRecuperados++;
 #pragma omp atomic
 				cantInfectados--;
 #pragma omp atomic
-				cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second]--;
+				cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second]--;
 			}
 			else
-				it->setContadorEnfermo(it->getContadorEnfermo()+1);
-			if (it->getContadorEnfermo() == ticsBeforeDoom) {
-				it->setEstado(3);
+				civilizacion[i].setContadorEnfermo(civilizacion[i].getContadorEnfermo() + 1);
+			if (civilizacion[i].getContadorEnfermo() == ticsBeforeDoom) {
+				civilizacion[i].setEstado(3);
 #pragma omp atomic
 				cantMuertos++;
 #pragma omp atomic
 				cantInfectados--;
 #pragma omp atomic
-				cuadriculaDeInfeccion[it->getPosicion().first][it->getPosicion().second]--;
+				cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second]--;
 			}
 		}
 	}

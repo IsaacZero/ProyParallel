@@ -10,7 +10,7 @@ class Simulador
 {
 public:
 	Simulador();
-	Simulador(int personas,int infectados, int cntMuerte, double potInfecc, double potRecup, int tamaño);
+	Simulador(int personas, int infectados, int cntMuerte, double potInfecc, double potRecup, int tamaño);
 	virtual ~Simulador();
 
 	//EFE: Realiza los movimientos en un tic.
@@ -22,7 +22,7 @@ public:
 	//REQ: Simulador inicializado.
 	//MOD: cuadriculaDeInfectados y la civilizacion.
 	void calcularInfeciones();
-	
+
 	//EFE: Cambia la cantidad de muertos en el vector de personas.
 	//MOD: Int cantMuertos.
 	void setCantMuertos(int killThem);
@@ -30,15 +30,15 @@ public:
 	//EFE: Cambia la cantidad de infectados en el vector.
 	//MOD: Int cantInfectados.
 	void setCantInfect(int spreadDis);
-	
+
 	//EFE: Cambia la cantidad de personas curadas en el vector.
 	//MOD: Int cantRecuperados.
 	void setCantRecup(int healThem);
-	
+
 	//EFE: Cambia la cantidad de persona en el vector.
 	//MOD: Int cantPersonas.
 	void setCantPersonas(int giveBirth);
-	
+
 	//EFE: Cambia la cantidad de dias para la profecia final.
 	//MOD: Int ticsBeforeDoom.
 	void setTicsBeforeDoom(int prophecy);
@@ -53,13 +53,13 @@ public:
 
 	//EFE: Retorna cantMuertos.
 	int getCantMuertos();
-	
+
 	//EFE: Retorna cantInfectados.
 	int getCantInfect();
-	
+
 	//EFE: Retorna cantRecuperados.
 	int getCantRecup();
-	
+
 	//EFE: Retorna cantPersonas.
 	int getCantPersonas();
 
@@ -73,7 +73,7 @@ public:
 	double getProbaRecup();
 
 private:
-	list<Persona> civilizacion;
+	vector<Persona> civilizacion;
 	vector<vector<int>> cuadriculaDeInfeccion;
 	double probaInfec;
 	double probaRecup;
@@ -83,4 +83,3 @@ private:
 	int cantPersonas;
 	int ticsBeforeDoom;
 };
-

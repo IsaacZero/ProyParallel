@@ -27,7 +27,7 @@ int main(int argc, char* argv[]) {
 	double promCantPersonas = 0.0;
 	infectados = muertos = susceptiblesTic = recuperados = susceptibles = 0;
 	while (!validaCntInfectados(infectados) || !validaCntPersonas(personas) || !validaCntTics(totalTics) ||
-		!validaProbRec(potRecup) || !validaProInfec(potInfecc) || !validaSize(size) || !validaCntMuerte(cntMuerte)){
+		!validaProbRec(potRecup) || !validaProInfec(potInfecc) || !validaSize(size) || !validaCntMuerte(cntMuerte)) {
 		cout << "Digite la cantidad de Personas" << endl;
 		cin >> personas;
 		cout << "Digite la cantidad de Infectados" << endl;
@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
 	ofstream archivoSalida(nombreArchivo + ".txt");
 	Simulador matrix(personas, infectados, cntMuerte, potInfecc, potRecup, size);
 	archivoSalida << "Cantidades Originales." << endl;
-	archivoSalida << "Personas Suceptibles: " << (personas-infectados) << endl;
+	archivoSalida << "Personas Suceptibles: " << (personas - infectados) << endl;
 	archivoSalida << "Infectados: " << infectados << endl;
 	archivoSalida << "Cantidad de Tics: " << totalTics << endl;
 	archivoSalida << "Tamaño de la civilizacion: " << size << "X" << size << endl;
@@ -80,7 +80,7 @@ int main(int argc, char* argv[]) {
 		infectados += matrix.getCantInfect();
 		muertos += matrix.getCantMuertos();
 		recuperados += matrix.getCantRecup();
-		susceptibles += personas - muertos - infectados - recuperados;
+		susceptibles += personas - matrix.getCantMuertos() - matrix.getCantInfect() - matrix.getCantRecup();
 		susceptiblesTic = personas - matrix.getCantMuertos() - matrix.getCantInfect() - matrix.getCantRecup();
 		promCantPersonas += (susceptiblesTic * 100) / personas;
 		promInfec += (matrix.getCantInfect() * 100) / personas;
