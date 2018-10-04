@@ -41,22 +41,27 @@ int main(int argc, char* argv[]) {
 		cout << "Digite el Potencial de Recuperacion de 0.0 a 1.0 " << endl;
 		cin >> potRecup;
 		cout << "Escoja el tamaño de la civilizacion:" << endl;
-		cout << "1) 100 X 100" << endl;
-		cout << "2) 500 X 500" << endl;
-		cout << "3) 1000 X 1000" << endl;
+		cout << "1) 35 X 35" << endl;
+		cout << "2) 100 X 100" << endl;
+		cout << "3) 500 X 500" << endl;
+		cout << "4) 1000 X 1000" << endl;
 		cin >> size;
 	}
 	switch (size)
 	{
 	case 1:
-		size = 100;
+		size = 35;
 		break;
 
 	case 2:
-		size = 500;
+		size = 100;
 		break;
 
 	case 3:
+		size = 500;
+		break;
+
+	case 4:
 		size = 1000;
 		break;
 

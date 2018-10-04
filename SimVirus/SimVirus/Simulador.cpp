@@ -18,8 +18,9 @@ Simulador::Simulador(int personas, int infectados, int cntMuerte, double potInfe
 	cuadriculaDeInfeccion.resize(tamaño, filas);
 	cantMuertos = 0;
 	cantRecuperados = 0;
-	default_random_engine generator;
-	uniform_int_distribution<int> distribution(0, tamaño);
+	random_device rd;
+	default_random_engine generator(rd());
+	uniform_int_distribution<int> distribution(0, tamaño-1);
 	int x, y;
 	//Agregar la funcion que lo vuelve infeccioso, no creo que se pueda paralelizar el random.
 	//Pensar si mejor crear un metodo para darle ubicacion o usar punteros, más pesado eso si.
@@ -48,7 +49,8 @@ Simulador::~Simulador()
 void Simulador::generarTic() {
 	int x, y;
 	pair<int, int> location;
-	default_random_engine generator;
+	random_device rd;
+	default_random_engine generator(rd());
 	uniform_int_distribution<int> distribution(0, 1);
 #pragma omp parallel for num_threads(omp_get_max_threads()) private (x, y, location)// shared(civilizacion, cuadriculaDeInfeccion)
 	for (int i = 0; i < civilizacion.size(); i++) {
@@ -80,7 +82,8 @@ void Simulador::generarTic() {
 void Simulador::calcularInfeciones() {
 	int contador;
 	double x;
-	default_random_engine generator;
+	random_device rd;
+	default_random_engine generator(rd());
 	uniform_real_distribution<double> distribution(0.0, 1.0);
 #pragma omp parallel for num_threads(omp_get_max_threads()) private(x,contador)// shared(cantMuertos,cantRecuperados,cantInfectados,civilizacion,cuadriculaDeInfeccion)
 	for (int i = 0; i < civilizacion.size(); i++) {
