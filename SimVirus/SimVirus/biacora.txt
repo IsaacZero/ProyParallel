@@ -1,505 +1,105 @@
 Cantidades Originales.
 Personas Suceptibles: 500
 Infectados: 500
-Cantidad de Tics: 50
-Tamaño de la civilizacion: 100X100
+Cantidad de Tics: 10
+Tamaño de la civilizacion: 35X35
 Dia: 1
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 407
-Promedio del Porcentaje: 40
+Promedio de Personas Susceptibles: 345
+Promedio del Porcentaje: 34
+Promedio de Personas Infectadas: 614
+Promedio del Porcentaje: 61
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 93
-Promedio del Porcentaje: 9
+Promedio de Personas Recuperadas: 41
+Promedio del Porcentaje: 4
 
 Dia: 2
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 363
-Promedio del Porcentaje: 35.5
+Promedio de Personas Susceptibles: 296
+Promedio del Porcentaje: 29
+Promedio de Personas Infectadas: 626.5
+Promedio del Porcentaje: 62
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 137
-Promedio del Porcentaje: 13.5
+Promedio de Personas Recuperadas: 77.5
+Promedio del Porcentaje: 7.5
 
 Dia: 3
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 328.333
-Promedio del Porcentaje: 32
+Promedio de Personas Susceptibles: 252.333
+Promedio del Porcentaje: 24.6667
+Promedio de Personas Infectadas: 633.333
+Promedio del Porcentaje: 62.6667
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 171.667
-Promedio del Porcentaje: 17
+Promedio de Personas Recuperadas: 114.333
+Promedio del Porcentaje: 11
 
 Dia: 4
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 298.25
-Promedio del Porcentaje: 29
+Promedio de Personas Susceptibles: 221.5
+Promedio del Porcentaje: 21.5
+Promedio de Personas Infectadas: 631.75
+Promedio del Porcentaje: 62.5
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 201.75
-Promedio del Porcentaje: 20
+Promedio de Personas Recuperadas: 146.75
+Promedio del Porcentaje: 14.25
 
 Dia: 5
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 270.4
-Promedio del Porcentaje: 26.2
+Promedio de Personas Susceptibles: 197.6
+Promedio del Porcentaje: 19.2
+Promedio de Personas Infectadas: 623
+Promedio del Porcentaje: 61.6
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 229.6
-Promedio del Porcentaje: 22.8
+Promedio de Personas Recuperadas: 179.4
+Promedio del Porcentaje: 17.6
 
 Dia: 6
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 246
-Promedio del Porcentaje: 23.8333
+Promedio de Personas Susceptibles: 178
+Promedio del Porcentaje: 17.3333
+Promedio de Personas Infectadas: 611.833
+Promedio del Porcentaje: 60.5
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 254
-Promedio del Porcentaje: 25.1667
+Promedio de Personas Recuperadas: 210.167
+Promedio del Porcentaje: 20.6667
 
 Dia: 7
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 224.429
-Promedio del Porcentaje: 21.7143
+Promedio de Personas Susceptibles: 161.857
+Promedio del Porcentaje: 15.7143
+Promedio de Personas Infectadas: 598.143
+Promedio del Porcentaje: 59.1429
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 275.571
-Promedio del Porcentaje: 27.2857
+Promedio de Personas Recuperadas: 240
+Promedio del Porcentaje: 23.5714
 
 Dia: 8
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 205.125
-Promedio del Porcentaje: 19.875
+Promedio de Personas Susceptibles: 148.375
+Promedio del Porcentaje: 14.375
+Promedio de Personas Infectadas: 581.875
+Promedio del Porcentaje: 57.5
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 294.875
-Promedio del Porcentaje: 29.25
+Promedio de Personas Recuperadas: 269.75
+Promedio del Porcentaje: 26.5
 
 Dia: 9
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 188.111
-Promedio del Porcentaje: 18.2222
+Promedio de Personas Susceptibles: 136.556
+Promedio del Porcentaje: 13.2222
+Promedio de Personas Infectadas: 563.444
+Promedio del Porcentaje: 55.6667
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 311.889
-Promedio del Porcentaje: 30.8889
+Promedio de Personas Recuperadas: 300
+Promedio del Porcentaje: 29.5556
 
 Dia: 10
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 173.4
-Promedio del Porcentaje: 16.8
+Promedio de Personas Susceptibles: 126.4
+Promedio del Porcentaje: 12.2
+Promedio de Personas Infectadas: 544.6
+Promedio del Porcentaje: 53.8
 Promedio de Personas Muertas: 0
 Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 326.6
-Promedio del Porcentaje: 32.3
-
-Dia: 11
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 160.636
-Promedio del Porcentaje: 15.5455
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 339.364
-Promedio del Porcentaje: 33.5455
-
-Dia: 12
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 149.667
-Promedio del Porcentaje: 14.4167
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 350.333
-Promedio del Porcentaje: 34.6667
-
-Dia: 13
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 140.154
-Promedio del Porcentaje: 13.4615
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 359.846
-Promedio del Porcentaje: 35.6154
-
-Dia: 14
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 131.5
-Promedio del Porcentaje: 12.5714
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 368.5
-Promedio del Porcentaje: 36.5
-
-Dia: 15
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 123.867
-Promedio del Porcentaje: 11.8
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 376.133
-Promedio del Porcentaje: 37.2667
-
-Dia: 16
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 117.063
-Promedio del Porcentaje: 11.125
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 382.938
-Promedio del Porcentaje: 37.9375
-
-Dia: 17
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 110.941
-Promedio del Porcentaje: 10.5294
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 389.059
-Promedio del Porcentaje: 38.5294
-
-Dia: 18
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 105.389
-Promedio del Porcentaje: 10
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 394.611
-Promedio del Porcentaje: 39.0556
-
-Dia: 19
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 100.211
-Promedio del Porcentaje: 9.47368
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 399.789
-Promedio del Porcentaje: 39.5789
-
-Dia: 20
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 95.55
-Promedio del Porcentaje: 9
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 404.45
-Promedio del Porcentaje: 40.05
-
-Dia: 21
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 91.2381
-Promedio del Porcentaje: 8.57143
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 408.762
-Promedio del Porcentaje: 40.4762
-
-Dia: 22
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 87.2727
-Promedio del Porcentaje: 8.18182
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 412.727
-Promedio del Porcentaje: 40.8636
-
-Dia: 23
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 83.6522
-Promedio del Porcentaje: 7.82609
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 416.348
-Promedio del Porcentaje: 41.2174
-
-Dia: 24
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 80.2917
-Promedio del Porcentaje: 7.5
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 419.708
-Promedio del Porcentaje: 41.5417
-
-Dia: 25
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 77.16
-Promedio del Porcentaje: 7.2
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 422.84
-Promedio del Porcentaje: 41.84
-
-Dia: 26
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 74.2692
-Promedio del Porcentaje: 6.92308
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 425.731
-Promedio del Porcentaje: 42.1154
-
-Dia: 27
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 71.5556
-Promedio del Porcentaje: 6.66667
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 428.444
-Promedio del Porcentaje: 42.3704
-
-Dia: 28
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 69.0357
-Promedio del Porcentaje: 6.42857
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 430.964
-Promedio del Porcentaje: 42.6071
-
-Dia: 29
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 66.6897
-Promedio del Porcentaje: 6.2069
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 433.31
-Promedio del Porcentaje: 42.8276
-
-Dia: 30
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 64.4667
-Promedio del Porcentaje: 6
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 435.533
-Promedio del Porcentaje: 43.0667
-
-Dia: 31
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 62.3871
-Promedio del Porcentaje: 5.80645
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 437.613
-Promedio del Porcentaje: 43.2903
-
-Dia: 32
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 60.4375
-Promedio del Porcentaje: 5.625
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 439.563
-Promedio del Porcentaje: 43.5
-
-Dia: 33
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 58.6061
-Promedio del Porcentaje: 5.45455
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 441.394
-Promedio del Porcentaje: 43.697
-
-Dia: 34
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 56.8824
-Promedio del Porcentaje: 5.29412
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 443.118
-Promedio del Porcentaje: 43.8824
-
-Dia: 35
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 55.2571
-Promedio del Porcentaje: 5.14286
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 444.743
-Promedio del Porcentaje: 44.0571
-
-Dia: 36
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 53.7222
-Promedio del Porcentaje: 5
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 446.278
-Promedio del Porcentaje: 44.2222
-
-Dia: 37
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 52.2703
-Promedio del Porcentaje: 4.86486
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 447.73
-Promedio del Porcentaje: 44.3784
-
-Dia: 38
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 50.8947
-Promedio del Porcentaje: 4.73684
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 449.105
-Promedio del Porcentaje: 44.5263
-
-Dia: 39
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 49.5897
-Promedio del Porcentaje: 4.61538
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 450.41
-Promedio del Porcentaje: 44.6667
-
-Dia: 40
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 48.35
-Promedio del Porcentaje: 4.5
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 451.65
-Promedio del Porcentaje: 44.8
-
-Dia: 41
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 47.1707
-Promedio del Porcentaje: 4.39024
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 452.829
-Promedio del Porcentaje: 44.9268
-
-Dia: 42
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 46.0476
-Promedio del Porcentaje: 4.28571
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 453.952
-Promedio del Porcentaje: 45.0476
-
-Dia: 43
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 44.9767
-Promedio del Porcentaje: 4.18605
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 455.023
-Promedio del Porcentaje: 45.1628
-
-Dia: 44
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 43.9545
-Promedio del Porcentaje: 4.09091
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 456.045
-Promedio del Porcentaje: 45.2727
-
-Dia: 45
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 42.9778
-Promedio del Porcentaje: 4
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 457.022
-Promedio del Porcentaje: 45.3778
-
-Dia: 46
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 42.0435
-Promedio del Porcentaje: 3.91304
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 457.957
-Promedio del Porcentaje: 45.4783
-
-Dia: 47
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 41.1489
-Promedio del Porcentaje: 3.82979
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 458.851
-Promedio del Porcentaje: 45.5745
-
-Dia: 48
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 40.2917
-Promedio del Porcentaje: 3.75
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 459.708
-Promedio del Porcentaje: 45.6667
-
-Dia: 49
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 39.4694
-Promedio del Porcentaje: 3.67347
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 460.531
-Promedio del Porcentaje: 45.7551
-
-Dia: 50
-Promedio de Personas Susceptibles: 500
-Promedio del Porcentaje: 50
-Promedio de Personas Infectadas: 38.68
-Promedio del Porcentaje: 3.6
-Promedio de Personas Muertas: 0
-Promedio del Porcentaje: 0
-Promedio de Personas Recuperadas: 461.32
-Promedio del Porcentaje: 45.84
+Promedio de Personas Recuperadas: 329
+Promedio del Porcentaje: 32.5
 

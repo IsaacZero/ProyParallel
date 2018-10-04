@@ -81,15 +81,15 @@ void Simulador::generarTic() {
 
 void Simulador::calcularInfeciones() {
 	int contador;
-	double x;
+	double x = 0.0;
 	random_device rd;
 	default_random_engine generator(rd());
 	uniform_real_distribution<double> distribution(0.0, 1.0);
 #pragma omp parallel for num_threads(omp_get_max_threads()) private(x,contador)// shared(cantMuertos,cantRecuperados,cantInfectados,civilizacion,cuadriculaDeInfeccion)
 	for (int i = 0; i < civilizacion.size(); i++) {
-		if (civilizacion[i].getEstado() == 0 && (cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second] > 0)) {
+		if (civilizacion[i].getEstado() == 0 && ((cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second]) > 0)) {
 			contador = cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second];
-			while (civilizacion[i].getEstado() != 0 && (contador > 0)) {
+			while (civilizacion[i].getEstado() == 0 && (contador > 0)) {
 				x = distribution(generator);
 				if (x <= probaInfec) {
 					civilizacion[i].setEstado(1);
@@ -98,9 +98,11 @@ void Simulador::calcularInfeciones() {
 #pragma omp atomic
 					cantInfectados++;
 				}
+#pragma omp atomic
 				contador--;
 			}
 		}
+		//
 		else if (civilizacion[i].getEstado() == 1) {
 			x = distribution(generator);
 			if (x <= probaRecup) {
