@@ -4,8 +4,10 @@
 #include <string>
 #include "Simulador.h"
 #include <omp.h>
+#include <chrono>
 
 using namespace std;
+using namespace std::chrono;
 #define CRT_SECURE_NO_WARNINGS 1 // para deshabilitar errores por uso de funciones deprecated sobre CRT o consola
 #pragma warning(disable : 4996)
 bool validaCntTics(int ct);
@@ -79,6 +81,8 @@ int main(int argc, char* argv[]) {
 	archivoSalida << "Cantidad de Tics: " << totalTics << endl;
 	archivoSalida << "Tamaño de la civilizacion: " << size << "X" << size << endl;
 	infectados = muertos = susceptiblesTic = recuperados = susceptibles = 0;
+	//inicia tiempo
+	steady_clock::time_point t1 = steady_clock::now();
 	for (int i = 1; i <= totalTics; i++) {
 		matrix.generarTic();
 		matrix.calcularInfeciones();
@@ -106,6 +110,11 @@ int main(int argc, char* argv[]) {
 		archivoSalida << "Porcentaje: " << percRecup << endl;
 		archivoSalida << endl;
 	}
+	//termina tiempo
+	steady_clock::time_point t2 = steady_clock::now();
+	//imprime duracion
+	duration<double> time_span = duration_cast<duration<double>>(t2 - t1);
+	std::cout << "Duracion " << time_span.count() << " segundos.";
 	cin >> personas;
 	return 0;
 }
