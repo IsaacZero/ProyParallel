@@ -1,0 +1,4205 @@
+Cantidades Originales.
+Personas Suceptibles: 190
+Infectados: 10
+Cantidad de Tics: 300
+Tamaño de la civilizacion: 35X35
+Dia: 1
+Cantidad total de Susceptibles: 178
+Promedio de Personas Susceptibles: 178
+Porcentaje: 89
+Cantidad total de Infectados: 22
+Promedio de Personas Infectadas: 22
+Porcentaje: 11
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 2
+Cantidad total de Susceptibles: 175
+Promedio de Personas Susceptibles: 176.5
+Porcentaje: 87
+Cantidad total de Infectados: 25
+Promedio de Personas Infectadas: 23.5
+Porcentaje: 12
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 3
+Cantidad total de Susceptibles: 174
+Promedio de Personas Susceptibles: 175.667
+Porcentaje: 87
+Cantidad total de Infectados: 26
+Promedio de Personas Infectadas: 24.3333
+Porcentaje: 13
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 4
+Cantidad total de Susceptibles: 170
+Promedio de Personas Susceptibles: 174.25
+Porcentaje: 85
+Cantidad total de Infectados: 30
+Promedio de Personas Infectadas: 25.75
+Porcentaje: 15
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 5
+Cantidad total de Susceptibles: 169
+Promedio de Personas Susceptibles: 173.2
+Porcentaje: 84
+Cantidad total de Infectados: 31
+Promedio de Personas Infectadas: 26.8
+Porcentaje: 15
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 6
+Cantidad total de Susceptibles: 168
+Promedio de Personas Susceptibles: 172.333
+Porcentaje: 84
+Cantidad total de Infectados: 32
+Promedio de Personas Infectadas: 27.6667
+Porcentaje: 16
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 7
+Cantidad total de Susceptibles: 163
+Promedio de Personas Susceptibles: 171
+Porcentaje: 81
+Cantidad total de Infectados: 37
+Promedio de Personas Infectadas: 29
+Porcentaje: 18
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 8
+Cantidad total de Susceptibles: 158
+Promedio de Personas Susceptibles: 169.375
+Porcentaje: 79
+Cantidad total de Infectados: 42
+Promedio de Personas Infectadas: 30.625
+Porcentaje: 21
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 9
+Cantidad total de Susceptibles: 157
+Promedio de Personas Susceptibles: 168
+Porcentaje: 78
+Cantidad total de Infectados: 43
+Promedio de Personas Infectadas: 32
+Porcentaje: 21
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 10
+Cantidad total de Susceptibles: 157
+Promedio de Personas Susceptibles: 166.9
+Porcentaje: 78
+Cantidad total de Infectados: 43
+Promedio de Personas Infectadas: 33.1
+Porcentaje: 21
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 11
+Cantidad total de Susceptibles: 155
+Promedio de Personas Susceptibles: 165.818
+Porcentaje: 77
+Cantidad total de Infectados: 45
+Promedio de Personas Infectadas: 34.1818
+Porcentaje: 22
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 12
+Cantidad total de Susceptibles: 153
+Promedio de Personas Susceptibles: 164.75
+Porcentaje: 76
+Cantidad total de Infectados: 47
+Promedio de Personas Infectadas: 35.25
+Porcentaje: 23
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 13
+Cantidad total de Susceptibles: 152
+Promedio de Personas Susceptibles: 163.769
+Porcentaje: 76
+Cantidad total de Infectados: 48
+Promedio de Personas Infectadas: 36.2308
+Porcentaje: 24
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 14
+Cantidad total de Susceptibles: 150
+Promedio de Personas Susceptibles: 162.786
+Porcentaje: 75
+Cantidad total de Infectados: 50
+Promedio de Personas Infectadas: 37.2143
+Porcentaje: 25
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 15
+Cantidad total de Susceptibles: 148
+Promedio de Personas Susceptibles: 161.8
+Porcentaje: 74
+Cantidad total de Infectados: 52
+Promedio de Personas Infectadas: 38.2
+Porcentaje: 26
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 16
+Cantidad total de Susceptibles: 148
+Promedio de Personas Susceptibles: 160.938
+Porcentaje: 74
+Cantidad total de Infectados: 52
+Promedio de Personas Infectadas: 39.0625
+Porcentaje: 26
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 17
+Cantidad total de Susceptibles: 144
+Promedio de Personas Susceptibles: 159.941
+Porcentaje: 72
+Cantidad total de Infectados: 56
+Promedio de Personas Infectadas: 40.0588
+Porcentaje: 28
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 18
+Cantidad total de Susceptibles: 139
+Promedio de Personas Susceptibles: 158.778
+Porcentaje: 69
+Cantidad total de Infectados: 61
+Promedio de Personas Infectadas: 41.2222
+Porcentaje: 30
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 19
+Cantidad total de Susceptibles: 138
+Promedio de Personas Susceptibles: 157.684
+Porcentaje: 69
+Cantidad total de Infectados: 62
+Promedio de Personas Infectadas: 42.3158
+Porcentaje: 31
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 20
+Cantidad total de Susceptibles: 137
+Promedio de Personas Susceptibles: 156.65
+Porcentaje: 68
+Cantidad total de Infectados: 63
+Promedio de Personas Infectadas: 43.35
+Porcentaje: 31
+Cantidad total de Muertos: 0
+Promedio de Personas Muertas: 0
+Porcentaje: 0
+Cantidad total de Recuperados: 0
+Promedio de Personas Recuperadas: 0
+Porcentaje: 0
+
+Dia: 21
+Cantidad total de Susceptibles: 131
+Promedio de Personas Susceptibles: 155.429
+Porcentaje: 65
+Cantidad total de Infectados: 49
+Promedio de Personas Infectadas: 43.619
+Porcentaje: 24
+Cantidad total de Muertos: 5
+Promedio de Personas Muertas: 0.238095
+Porcentaje: 2
+Cantidad total de Recuperados: 15
+Promedio de Personas Recuperadas: 0.714286
+Porcentaje: 7
+
+Dia: 22
+Cantidad total de Susceptibles: 129
+Promedio de Personas Susceptibles: 154.227
+Porcentaje: 64
+Cantidad total de Infectados: 49
+Promedio de Personas Infectadas: 43.8636
+Porcentaje: 24
+Cantidad total de Muertos: 6
+Promedio de Personas Muertas: 0.5
+Porcentaje: 3
+Cantidad total de Recuperados: 16
+Promedio de Personas Recuperadas: 1.40909
+Porcentaje: 8
+
+Dia: 23
+Cantidad total de Susceptibles: 127
+Promedio de Personas Susceptibles: 153.043
+Porcentaje: 63
+Cantidad total de Infectados: 48
+Promedio de Personas Infectadas: 44.0435
+Porcentaje: 24
+Cantidad total de Muertos: 6
+Promedio de Personas Muertas: 0.73913
+Porcentaje: 3
+Cantidad total de Recuperados: 19
+Promedio de Personas Recuperadas: 2.17391
+Porcentaje: 9
+
+Dia: 24
+Cantidad total de Susceptibles: 125
+Promedio de Personas Susceptibles: 151.875
+Porcentaje: 62
+Cantidad total de Infectados: 49
+Promedio de Personas Infectadas: 44.25
+Porcentaje: 24
+Cantidad total de Muertos: 6
+Promedio de Personas Muertas: 0.958333
+Porcentaje: 3
+Cantidad total de Recuperados: 20
+Promedio de Personas Recuperadas: 2.91667
+Porcentaje: 10
+
+Dia: 25
+Cantidad total de Susceptibles: 121
+Promedio de Personas Susceptibles: 150.64
+Porcentaje: 60
+Cantidad total de Infectados: 49
+Promedio de Personas Infectadas: 44.44
+Porcentaje: 24
+Cantidad total de Muertos: 7
+Promedio de Personas Muertas: 1.2
+Porcentaje: 3
+Cantidad total de Recuperados: 23
+Promedio de Personas Recuperadas: 3.72
+Porcentaje: 11
+
+Dia: 26
+Cantidad total de Susceptibles: 120
+Promedio de Personas Susceptibles: 149.462
+Porcentaje: 60
+Cantidad total de Infectados: 49
+Promedio de Personas Infectadas: 44.6154
+Porcentaje: 24
+Cantidad total de Muertos: 7
+Promedio de Personas Muertas: 1.42308
+Porcentaje: 3
+Cantidad total de Recuperados: 24
+Promedio de Personas Recuperadas: 4.5
+Porcentaje: 12
+
+Dia: 27
+Cantidad total de Susceptibles: 118
+Promedio de Personas Susceptibles: 148.296
+Porcentaje: 59
+Cantidad total de Infectados: 50
+Promedio de Personas Infectadas: 44.8148
+Porcentaje: 25
+Cantidad total de Muertos: 7
+Promedio de Personas Muertas: 1.62963
+Porcentaje: 3
+Cantidad total de Recuperados: 25
+Promedio de Personas Recuperadas: 5.25926
+Porcentaje: 12
+
+Dia: 28
+Cantidad total de Susceptibles: 117
+Promedio de Personas Susceptibles: 147.179
+Porcentaje: 58
+Cantidad total de Infectados: 46
+Promedio de Personas Infectadas: 44.8571
+Porcentaje: 23
+Cantidad total de Muertos: 9
+Promedio de Personas Muertas: 1.89286
+Porcentaje: 4
+Cantidad total de Recuperados: 28
+Promedio de Personas Recuperadas: 6.07143
+Porcentaje: 14
+
+Dia: 29
+Cantidad total de Susceptibles: 116
+Promedio de Personas Susceptibles: 146.103
+Porcentaje: 58
+Cantidad total de Infectados: 42
+Promedio de Personas Infectadas: 44.7586
+Porcentaje: 21
+Cantidad total de Muertos: 9
+Promedio de Personas Muertas: 2.13793
+Porcentaje: 4
+Cantidad total de Recuperados: 33
+Promedio de Personas Recuperadas: 7
+Porcentaje: 16
+
+Dia: 30
+Cantidad total de Susceptibles: 114
+Promedio de Personas Susceptibles: 145.033
+Porcentaje: 57
+Cantidad total de Infectados: 43
+Promedio de Personas Infectadas: 44.7
+Porcentaje: 21
+Cantidad total de Muertos: 9
+Promedio de Personas Muertas: 2.36667
+Porcentaje: 4
+Cantidad total de Recuperados: 34
+Promedio de Personas Recuperadas: 7.9
+Porcentaje: 17
+
+Dia: 31
+Cantidad total de Susceptibles: 108
+Promedio de Personas Susceptibles: 143.839
+Porcentaje: 54
+Cantidad total de Infectados: 49
+Promedio de Personas Infectadas: 44.8387
+Porcentaje: 24
+Cantidad total de Muertos: 9
+Promedio de Personas Muertas: 2.58065
+Porcentaje: 4
+Cantidad total de Recuperados: 34
+Promedio de Personas Recuperadas: 8.74194
+Porcentaje: 17
+
+Dia: 32
+Cantidad total de Susceptibles: 104
+Promedio de Personas Susceptibles: 142.594
+Porcentaje: 52
+Cantidad total de Infectados: 51
+Promedio de Personas Infectadas: 45.0313
+Porcentaje: 25
+Cantidad total de Muertos: 10
+Promedio de Personas Muertas: 2.8125
+Porcentaje: 5
+Cantidad total de Recuperados: 35
+Promedio de Personas Recuperadas: 9.5625
+Porcentaje: 17
+
+Dia: 33
+Cantidad total de Susceptibles: 99
+Promedio de Personas Susceptibles: 141.273
+Porcentaje: 49
+Cantidad total de Infectados: 54
+Promedio de Personas Infectadas: 45.303
+Porcentaje: 27
+Cantidad total de Muertos: 10
+Promedio de Personas Muertas: 3.0303
+Porcentaje: 5
+Cantidad total de Recuperados: 37
+Promedio de Personas Recuperadas: 10.3939
+Porcentaje: 18
+
+Dia: 34
+Cantidad total de Susceptibles: 94
+Promedio de Personas Susceptibles: 139.882
+Porcentaje: 47
+Cantidad total de Infectados: 58
+Promedio de Personas Infectadas: 45.6765
+Porcentaje: 29
+Cantidad total de Muertos: 10
+Promedio de Personas Muertas: 3.23529
+Porcentaje: 5
+Cantidad total de Recuperados: 38
+Promedio de Personas Recuperadas: 11.2059
+Porcentaje: 19
+
+Dia: 35
+Cantidad total de Susceptibles: 91
+Promedio de Personas Susceptibles: 138.486
+Porcentaje: 45
+Cantidad total de Infectados: 59
+Promedio de Personas Infectadas: 46.0571
+Porcentaje: 29
+Cantidad total de Muertos: 12
+Promedio de Personas Muertas: 3.48571
+Porcentaje: 6
+Cantidad total de Recuperados: 38
+Promedio de Personas Recuperadas: 11.9714
+Porcentaje: 19
+
+Dia: 36
+Cantidad total de Susceptibles: 90
+Promedio de Personas Susceptibles: 137.139
+Porcentaje: 45
+Cantidad total de Infectados: 58
+Promedio de Personas Infectadas: 46.3889
+Porcentaje: 29
+Cantidad total de Muertos: 12
+Promedio de Personas Muertas: 3.72222
+Porcentaje: 6
+Cantidad total de Recuperados: 40
+Promedio de Personas Recuperadas: 12.75
+Porcentaje: 20
+
+Dia: 37
+Cantidad total de Susceptibles: 88
+Promedio de Personas Susceptibles: 135.811
+Porcentaje: 44
+Cantidad total de Infectados: 60
+Promedio de Personas Infectadas: 46.7568
+Porcentaje: 30
+Cantidad total de Muertos: 12
+Promedio de Personas Muertas: 3.94595
+Porcentaje: 6
+Cantidad total de Recuperados: 40
+Promedio de Personas Recuperadas: 13.4865
+Porcentaje: 20
+
+Dia: 38
+Cantidad total de Susceptibles: 86
+Promedio de Personas Susceptibles: 134.5
+Porcentaje: 43
+Cantidad total de Infectados: 58
+Promedio de Personas Infectadas: 47.0526
+Porcentaje: 29
+Cantidad total de Muertos: 13
+Promedio de Personas Muertas: 4.18421
+Porcentaje: 6
+Cantidad total de Recuperados: 43
+Promedio de Personas Recuperadas: 14.2632
+Porcentaje: 21
+
+Dia: 39
+Cantidad total de Susceptibles: 85
+Promedio de Personas Susceptibles: 133.231
+Porcentaje: 42
+Cantidad total de Infectados: 54
+Promedio de Personas Infectadas: 47.2308
+Porcentaje: 27
+Cantidad total de Muertos: 14
+Promedio de Personas Muertas: 4.4359
+Porcentaje: 7
+Cantidad total de Recuperados: 47
+Promedio de Personas Recuperadas: 15.1026
+Porcentaje: 23
+
+Dia: 40
+Cantidad total de Susceptibles: 85
+Promedio de Personas Susceptibles: 132.025
+Porcentaje: 42
+Cantidad total de Infectados: 53
+Promedio de Personas Infectadas: 47.375
+Porcentaje: 26
+Cantidad total de Muertos: 14
+Promedio de Personas Muertas: 4.675
+Porcentaje: 7
+Cantidad total de Recuperados: 48
+Promedio de Personas Recuperadas: 15.925
+Porcentaje: 24
+
+Dia: 41
+Cantidad total de Susceptibles: 83
+Promedio de Personas Susceptibles: 130.829
+Porcentaje: 41
+Cantidad total de Infectados: 54
+Promedio de Personas Infectadas: 47.5366
+Porcentaje: 27
+Cantidad total de Muertos: 14
+Promedio de Personas Muertas: 4.90244
+Porcentaje: 7
+Cantidad total de Recuperados: 49
+Promedio de Personas Recuperadas: 16.7317
+Porcentaje: 24
+
+Dia: 42
+Cantidad total de Susceptibles: 83
+Promedio de Personas Susceptibles: 129.69
+Porcentaje: 41
+Cantidad total de Infectados: 48
+Promedio de Personas Infectadas: 47.5476
+Porcentaje: 24
+Cantidad total de Muertos: 17
+Promedio de Personas Muertas: 5.19048
+Porcentaje: 8
+Cantidad total de Recuperados: 52
+Promedio de Personas Recuperadas: 17.5714
+Porcentaje: 26
+
+Dia: 43
+Cantidad total de Susceptibles: 82
+Promedio de Personas Susceptibles: 128.581
+Porcentaje: 41
+Cantidad total de Infectados: 47
+Promedio de Personas Infectadas: 47.5349
+Porcentaje: 23
+Cantidad total de Muertos: 17
+Promedio de Personas Muertas: 5.46512
+Porcentaje: 8
+Cantidad total de Recuperados: 54
+Promedio de Personas Recuperadas: 18.4186
+Porcentaje: 27
+
+Dia: 44
+Cantidad total de Susceptibles: 80
+Promedio de Personas Susceptibles: 127.477
+Porcentaje: 40
+Cantidad total de Infectados: 47
+Promedio de Personas Infectadas: 47.5227
+Porcentaje: 23
+Cantidad total de Muertos: 17
+Promedio de Personas Muertas: 5.72727
+Porcentaje: 8
+Cantidad total de Recuperados: 56
+Promedio de Personas Recuperadas: 19.2727
+Porcentaje: 28
+
+Dia: 45
+Cantidad total de Susceptibles: 79
+Promedio de Personas Susceptibles: 126.4
+Porcentaje: 39
+Cantidad total de Infectados: 46
+Promedio de Personas Infectadas: 47.4889
+Porcentaje: 23
+Cantidad total de Muertos: 18
+Promedio de Personas Muertas: 6
+Porcentaje: 9
+Cantidad total de Recuperados: 57
+Promedio de Personas Recuperadas: 20.1111
+Porcentaje: 28
+
+Dia: 46
+Cantidad total de Susceptibles: 77
+Promedio de Personas Susceptibles: 125.326
+Porcentaje: 38
+Cantidad total de Infectados: 44
+Promedio de Personas Infectadas: 47.413
+Porcentaje: 22
+Cantidad total de Muertos: 19
+Promedio de Personas Muertas: 6.28261
+Porcentaje: 9
+Cantidad total de Recuperados: 60
+Promedio de Personas Recuperadas: 20.9783
+Porcentaje: 30
+
+Dia: 47
+Cantidad total de Susceptibles: 76
+Promedio de Personas Susceptibles: 124.277
+Porcentaje: 38
+Cantidad total de Infectados: 44
+Promedio de Personas Infectadas: 47.3404
+Porcentaje: 22
+Cantidad total de Muertos: 20
+Promedio de Personas Muertas: 6.57447
+Porcentaje: 10
+Cantidad total de Recuperados: 60
+Promedio de Personas Recuperadas: 21.8085
+Porcentaje: 30
+
+Dia: 48
+Cantidad total de Susceptibles: 75
+Promedio de Personas Susceptibles: 123.25
+Porcentaje: 37
+Cantidad total de Infectados: 43
+Promedio de Personas Infectadas: 47.25
+Porcentaje: 21
+Cantidad total de Muertos: 20
+Promedio de Personas Muertas: 6.85417
+Porcentaje: 10
+Cantidad total de Recuperados: 62
+Promedio de Personas Recuperadas: 22.6458
+Porcentaje: 31
+
+Dia: 49
+Cantidad total de Susceptibles: 75
+Promedio de Personas Susceptibles: 122.265
+Porcentaje: 37
+Cantidad total de Infectados: 42
+Promedio de Personas Infectadas: 47.1429
+Porcentaje: 21
+Cantidad total de Muertos: 20
+Promedio de Personas Muertas: 7.12245
+Porcentaje: 10
+Cantidad total de Recuperados: 63
+Promedio de Personas Recuperadas: 23.4694
+Porcentaje: 31
+
+Dia: 50
+Cantidad total de Susceptibles: 74
+Promedio de Personas Susceptibles: 121.3
+Porcentaje: 37
+Cantidad total de Infectados: 42
+Promedio de Personas Infectadas: 47.04
+Porcentaje: 21
+Cantidad total de Muertos: 20
+Promedio de Personas Muertas: 7.38
+Porcentaje: 10
+Cantidad total de Recuperados: 64
+Promedio de Personas Recuperadas: 24.28
+Porcentaje: 32
+
+Dia: 51
+Cantidad total de Susceptibles: 74
+Promedio de Personas Susceptibles: 120.373
+Porcentaje: 37
+Cantidad total de Infectados: 40
+Promedio de Personas Infectadas: 46.902
+Porcentaje: 20
+Cantidad total de Muertos: 20
+Promedio de Personas Muertas: 7.62745
+Porcentaje: 10
+Cantidad total de Recuperados: 66
+Promedio de Personas Recuperadas: 25.098
+Porcentaje: 33
+
+Dia: 52
+Cantidad total de Susceptibles: 74
+Promedio de Personas Susceptibles: 119.481
+Porcentaje: 37
+Cantidad total de Infectados: 34
+Promedio de Personas Infectadas: 46.6538
+Porcentaje: 17
+Cantidad total de Muertos: 20
+Promedio de Personas Muertas: 7.86538
+Porcentaje: 10
+Cantidad total de Recuperados: 72
+Promedio de Personas Recuperadas: 26
+Porcentaje: 36
+
+Dia: 53
+Cantidad total de Susceptibles: 73
+Promedio de Personas Susceptibles: 118.604
+Porcentaje: 36
+Cantidad total de Infectados: 31
+Promedio de Personas Infectadas: 46.3585
+Porcentaje: 15
+Cantidad total de Muertos: 21
+Promedio de Personas Muertas: 8.11321
+Porcentaje: 10
+Cantidad total de Recuperados: 75
+Promedio de Personas Recuperadas: 26.9245
+Porcentaje: 37
+
+Dia: 54
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 117.741
+Porcentaje: 36
+Cantidad total de Infectados: 27
+Promedio de Personas Infectadas: 46
+Porcentaje: 13
+Cantidad total de Muertos: 23
+Promedio de Personas Muertas: 8.38889
+Porcentaje: 11
+Cantidad total de Recuperados: 78
+Promedio de Personas Recuperadas: 27.8704
+Porcentaje: 39
+
+Dia: 55
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 116.909
+Porcentaje: 36
+Cantidad total de Infectados: 22
+Promedio de Personas Infectadas: 45.5636
+Porcentaje: 11
+Cantidad total de Muertos: 25
+Promedio de Personas Muertas: 8.69091
+Porcentaje: 12
+Cantidad total de Recuperados: 81
+Promedio de Personas Recuperadas: 28.8364
+Porcentaje: 40
+
+Dia: 56
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 116.107
+Porcentaje: 36
+Cantidad total de Infectados: 19
+Promedio de Personas Infectadas: 45.0893
+Porcentaje: 9
+Cantidad total de Muertos: 25
+Promedio de Personas Muertas: 8.98214
+Porcentaje: 12
+Cantidad total de Recuperados: 84
+Promedio de Personas Recuperadas: 29.8214
+Porcentaje: 42
+
+Dia: 57
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 115.333
+Porcentaje: 36
+Cantidad total de Infectados: 18
+Promedio de Personas Infectadas: 44.614
+Porcentaje: 9
+Cantidad total de Muertos: 25
+Promedio de Personas Muertas: 9.26316
+Porcentaje: 12
+Cantidad total de Recuperados: 85
+Promedio de Personas Recuperadas: 30.7895
+Porcentaje: 42
+
+Dia: 58
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 114.586
+Porcentaje: 36
+Cantidad total de Infectados: 16
+Promedio de Personas Infectadas: 44.1207
+Porcentaje: 8
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 9.55172
+Porcentaje: 13
+Cantidad total de Recuperados: 86
+Promedio de Personas Recuperadas: 31.7414
+Porcentaje: 43
+
+Dia: 59
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 113.864
+Porcentaje: 36
+Cantidad total de Infectados: 14
+Promedio de Personas Infectadas: 43.6102
+Porcentaje: 7
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 9.83051
+Porcentaje: 13
+Cantidad total de Recuperados: 88
+Promedio de Personas Recuperadas: 32.6949
+Porcentaje: 44
+
+Dia: 60
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 113.167
+Porcentaje: 36
+Cantidad total de Infectados: 13
+Promedio de Personas Infectadas: 43.1
+Porcentaje: 6
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 10.1
+Porcentaje: 13
+Cantidad total de Recuperados: 89
+Promedio de Personas Recuperadas: 33.6333
+Porcentaje: 44
+
+Dia: 61
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 112.492
+Porcentaje: 36
+Cantidad total de Infectados: 13
+Promedio de Personas Infectadas: 42.6066
+Porcentaje: 6
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 10.3607
+Porcentaje: 13
+Cantidad total de Recuperados: 89
+Promedio de Personas Recuperadas: 34.541
+Porcentaje: 44
+
+Dia: 62
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 111.839
+Porcentaje: 36
+Cantidad total de Infectados: 11
+Promedio de Personas Infectadas: 42.0968
+Porcentaje: 5
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 10.6129
+Porcentaje: 13
+Cantidad total de Recuperados: 91
+Promedio de Personas Recuperadas: 35.4516
+Porcentaje: 45
+
+Dia: 63
+Cantidad total de Susceptibles: 72
+Promedio de Personas Susceptibles: 111.206
+Porcentaje: 36
+Cantidad total de Infectados: 11
+Promedio de Personas Infectadas: 41.6032
+Porcentaje: 5
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 10.8571
+Porcentaje: 13
+Cantidad total de Recuperados: 91
+Promedio de Personas Recuperadas: 36.3333
+Porcentaje: 45
+
+Dia: 64
+Cantidad total de Susceptibles: 71
+Promedio de Personas Susceptibles: 110.578
+Porcentaje: 35
+Cantidad total de Infectados: 11
+Promedio de Personas Infectadas: 41.125
+Porcentaje: 5
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 11.0938
+Porcentaje: 13
+Cantidad total de Recuperados: 92
+Promedio de Personas Recuperadas: 37.2031
+Porcentaje: 46
+
+Dia: 65
+Cantidad total de Susceptibles: 71
+Promedio de Personas Susceptibles: 109.969
+Porcentaje: 35
+Cantidad total de Infectados: 9
+Promedio de Personas Infectadas: 40.6308
+Porcentaje: 4
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 11.3231
+Porcentaje: 13
+Cantidad total de Recuperados: 94
+Promedio de Personas Recuperadas: 38.0769
+Porcentaje: 47
+
+Dia: 66
+Cantidad total de Susceptibles: 71
+Promedio de Personas Susceptibles: 109.379
+Porcentaje: 35
+Cantidad total de Infectados: 8
+Promedio de Personas Infectadas: 40.1364
+Porcentaje: 4
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 11.5455
+Porcentaje: 13
+Cantidad total de Recuperados: 95
+Promedio de Personas Recuperadas: 38.9394
+Porcentaje: 47
+
+Dia: 67
+Cantidad total de Susceptibles: 71
+Promedio de Personas Susceptibles: 108.806
+Porcentaje: 35
+Cantidad total de Infectados: 6
+Promedio de Personas Infectadas: 39.6269
+Porcentaje: 3
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 11.7612
+Porcentaje: 13
+Cantidad total de Recuperados: 97
+Promedio de Personas Recuperadas: 39.806
+Porcentaje: 48
+
+Dia: 68
+Cantidad total de Susceptibles: 71
+Promedio de Personas Susceptibles: 108.25
+Porcentaje: 35
+Cantidad total de Infectados: 5
+Promedio de Personas Infectadas: 39.1176
+Porcentaje: 2
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 11.9706
+Porcentaje: 13
+Cantidad total de Recuperados: 98
+Promedio de Personas Recuperadas: 40.6618
+Porcentaje: 49
+
+Dia: 69
+Cantidad total de Susceptibles: 71
+Promedio de Personas Susceptibles: 107.71
+Porcentaje: 35
+Cantidad total de Infectados: 4
+Promedio de Personas Infectadas: 38.6087
+Porcentaje: 2
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 12.1739
+Porcentaje: 13
+Cantidad total de Recuperados: 99
+Promedio de Personas Recuperadas: 41.5072
+Porcentaje: 49
+
+Dia: 70
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 107.171
+Porcentaje: 35
+Cantidad total de Infectados: 5
+Promedio de Personas Infectadas: 38.1286
+Porcentaje: 2
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 12.3714
+Porcentaje: 13
+Cantidad total de Recuperados: 99
+Promedio de Personas Recuperadas: 42.3286
+Porcentaje: 49
+
+Dia: 71
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 106.648
+Porcentaje: 35
+Cantidad total de Infectados: 4
+Promedio de Personas Infectadas: 37.6479
+Porcentaje: 2
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 12.5634
+Porcentaje: 13
+Cantidad total de Recuperados: 100
+Promedio de Personas Recuperadas: 43.1408
+Porcentaje: 50
+
+Dia: 72
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 106.139
+Porcentaje: 35
+Cantidad total de Infectados: 4
+Promedio de Personas Infectadas: 37.1806
+Porcentaje: 2
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 12.75
+Porcentaje: 13
+Cantidad total de Recuperados: 100
+Promedio de Personas Recuperadas: 43.9306
+Porcentaje: 50
+
+Dia: 73
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 105.644
+Porcentaje: 35
+Cantidad total de Infectados: 4
+Promedio de Personas Infectadas: 36.726
+Porcentaje: 2
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 12.9315
+Porcentaje: 13
+Cantidad total de Recuperados: 100
+Promedio de Personas Recuperadas: 44.6986
+Porcentaje: 50
+
+Dia: 74
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 105.162
+Porcentaje: 35
+Cantidad total de Infectados: 3
+Promedio de Personas Infectadas: 36.2703
+Porcentaje: 1
+Cantidad total de Muertos: 26
+Promedio de Personas Muertas: 13.1081
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 45.4595
+Porcentaje: 50
+
+Dia: 75
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 104.693
+Porcentaje: 35
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 35.8133
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 13.2933
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 46.2
+Porcentaje: 50
+
+Dia: 76
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 104.237
+Porcentaje: 35
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 35.3684
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 13.4737
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 46.9211
+Porcentaje: 50
+
+Dia: 77
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 103.792
+Porcentaje: 35
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 34.9351
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 13.6494
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 47.6234
+Porcentaje: 50
+
+Dia: 78
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 103.359
+Porcentaje: 35
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 34.5128
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 13.8205
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 48.3077
+Porcentaje: 50
+
+Dia: 79
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 102.937
+Porcentaje: 35
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 34.1013
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 13.9873
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 48.9747
+Porcentaje: 50
+
+Dia: 80
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 102.525
+Porcentaje: 35
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 33.7
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 14.15
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 49.625
+Porcentaje: 50
+
+Dia: 81
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 102.123
+Porcentaje: 35
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 33.3086
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 14.3086
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 50.2593
+Porcentaje: 50
+
+Dia: 82
+Cantidad total de Susceptibles: 70
+Promedio de Personas Susceptibles: 101.732
+Porcentaje: 35
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 32.9268
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 14.4634
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 50.878
+Porcentaje: 50
+
+Dia: 83
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 101.337
+Porcentaje: 34
+Cantidad total de Infectados: 3
+Promedio de Personas Infectadas: 32.5663
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 14.6145
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 51.4819
+Porcentaje: 50
+
+Dia: 84
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 100.952
+Porcentaje: 34
+Cantidad total de Infectados: 3
+Promedio de Personas Infectadas: 32.2143
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 14.7619
+Porcentaje: 13
+Cantidad total de Recuperados: 101
+Promedio de Personas Recuperadas: 52.0714
+Porcentaje: 50
+
+Dia: 85
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 100.576
+Porcentaje: 34
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 31.8588
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 14.9059
+Porcentaje: 13
+Cantidad total de Recuperados: 102
+Promedio de Personas Recuperadas: 52.6588
+Porcentaje: 51
+
+Dia: 86
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 100.209
+Porcentaje: 34
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 31.5116
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 15.0465
+Porcentaje: 13
+Cantidad total de Recuperados: 102
+Promedio de Personas Recuperadas: 53.2326
+Porcentaje: 51
+
+Dia: 87
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 99.8506
+Porcentaje: 34
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 31.1724
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 15.1839
+Porcentaje: 13
+Cantidad total de Recuperados: 102
+Promedio de Personas Recuperadas: 53.7931
+Porcentaje: 51
+
+Dia: 88
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 99.5
+Porcentaje: 34
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 30.8409
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 15.3182
+Porcentaje: 13
+Cantidad total de Recuperados: 102
+Promedio de Personas Recuperadas: 54.3409
+Porcentaje: 51
+
+Dia: 89
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 99.1573
+Porcentaje: 34
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 30.5169
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 15.4494
+Porcentaje: 13
+Cantidad total de Recuperados: 102
+Promedio de Personas Recuperadas: 54.8764
+Porcentaje: 51
+
+Dia: 90
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 98.8222
+Porcentaje: 34
+Cantidad total de Infectados: 2
+Promedio de Personas Infectadas: 30.2
+Porcentaje: 1
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 15.5778
+Porcentaje: 13
+Cantidad total de Recuperados: 102
+Promedio de Personas Recuperadas: 55.4
+Porcentaje: 51
+
+Dia: 91
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 98.4945
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 29.8791
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 15.7033
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 55.9231
+Porcentaje: 51
+
+Dia: 92
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 98.1739
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 29.5652
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 15.8261
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 56.4348
+Porcentaje: 51
+
+Dia: 93
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 97.8602
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 29.2581
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 15.9462
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 56.9355
+Porcentaje: 51
+
+Dia: 94
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 97.5532
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 28.9574
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.0638
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 57.4255
+Porcentaje: 51
+
+Dia: 95
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 97.2526
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 28.6632
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.1789
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 57.9053
+Porcentaje: 51
+
+Dia: 96
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 96.9583
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 28.375
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.2917
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 58.375
+Porcentaje: 51
+
+Dia: 97
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 96.6701
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 28.0928
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.4021
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 58.8351
+Porcentaje: 51
+
+Dia: 98
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 96.3878
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 27.8163
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.5102
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 59.2857
+Porcentaje: 51
+
+Dia: 99
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 96.1111
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 27.5455
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.6162
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 59.7273
+Porcentaje: 51
+
+Dia: 100
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 95.84
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 27.28
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.72
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 60.16
+Porcentaje: 51
+
+Dia: 101
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 95.5743
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 27.0198
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.8218
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 60.5842
+Porcentaje: 51
+
+Dia: 102
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 95.3137
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 26.7647
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 16.9216
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 61
+Porcentaje: 51
+
+Dia: 103
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 95.0583
+Porcentaje: 34
+Cantidad total de Infectados: 1
+Promedio de Personas Infectadas: 26.5146
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.0194
+Porcentaje: 13
+Cantidad total de Recuperados: 103
+Promedio de Personas Recuperadas: 61.4078
+Porcentaje: 51
+
+Dia: 104
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 94.8077
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 26.2596
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.1154
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 61.8173
+Porcentaje: 52
+
+Dia: 105
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 94.5619
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 26.0095
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.2095
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 62.219
+Porcentaje: 52
+
+Dia: 106
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 94.3208
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 25.7642
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.3019
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 62.6132
+Porcentaje: 52
+
+Dia: 107
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 94.0841
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 25.5234
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.3925
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 63
+Porcentaje: 52
+
+Dia: 108
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 93.8519
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 25.287
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.4815
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 63.3796
+Porcentaje: 52
+
+Dia: 109
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 93.6239
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 25.055
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.5688
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 63.7523
+Porcentaje: 52
+
+Dia: 110
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 93.4
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 24.8273
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.6545
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 64.1182
+Porcentaje: 52
+
+Dia: 111
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 93.1802
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 24.6036
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.7387
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 64.4775
+Porcentaje: 52
+
+Dia: 112
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 92.9643
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 24.3839
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.8214
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 64.8304
+Porcentaje: 52
+
+Dia: 113
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 92.7522
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 24.1681
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.9027
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 65.177
+Porcentaje: 52
+
+Dia: 114
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 92.5439
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 23.9561
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 17.9825
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 65.5175
+Porcentaje: 52
+
+Dia: 115
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 92.3391
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 23.7478
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.0609
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 65.8522
+Porcentaje: 52
+
+Dia: 116
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 92.1379
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 23.5431
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.1379
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 66.181
+Porcentaje: 52
+
+Dia: 117
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 91.9402
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 23.3419
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.2137
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 66.5043
+Porcentaje: 52
+
+Dia: 118
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 91.7458
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 23.1441
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.2881
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 66.822
+Porcentaje: 52
+
+Dia: 119
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 91.5546
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 22.9496
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.3613
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 67.1345
+Porcentaje: 52
+
+Dia: 120
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 91.3667
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 22.7583
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.4333
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 67.4417
+Porcentaje: 52
+
+Dia: 121
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 91.1818
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 22.5702
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.5041
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 67.7438
+Porcentaje: 52
+
+Dia: 122
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 91
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 22.3852
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.5738
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 68.041
+Porcentaje: 52
+
+Dia: 123
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 90.8211
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 22.2033
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.6423
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 68.3333
+Porcentaje: 52
+
+Dia: 124
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 90.6452
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 22.0242
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.7097
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 68.621
+Porcentaje: 52
+
+Dia: 125
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 90.472
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 21.848
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.776
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 68.904
+Porcentaje: 52
+
+Dia: 126
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 90.3016
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 21.6746
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.8413
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 69.1825
+Porcentaje: 52
+
+Dia: 127
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 90.1339
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 21.5039
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.9055
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 69.4567
+Porcentaje: 52
+
+Dia: 128
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 89.9688
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 21.3359
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 18.9688
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 69.7266
+Porcentaje: 52
+
+Dia: 129
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 89.8062
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 21.1705
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.031
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 69.9922
+Porcentaje: 52
+
+Dia: 130
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 89.6462
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 21.0077
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.0923
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 70.2538
+Porcentaje: 52
+
+Dia: 131
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 89.4885
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 20.8473
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.1527
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 70.5115
+Porcentaje: 52
+
+Dia: 132
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 89.3333
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 20.6894
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.2121
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 70.7652
+Porcentaje: 52
+
+Dia: 133
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 89.1805
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 20.5338
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.2707
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 71.015
+Porcentaje: 52
+
+Dia: 134
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 89.0299
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 20.3806
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.3284
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 71.2612
+Porcentaje: 52
+
+Dia: 135
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 88.8815
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 20.2296
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.3852
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 71.5037
+Porcentaje: 52
+
+Dia: 136
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 88.7353
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 20.0809
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.4412
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 71.7426
+Porcentaje: 52
+
+Dia: 137
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 88.5912
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 19.9343
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.4964
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 71.9781
+Porcentaje: 52
+
+Dia: 138
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 88.4493
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 19.7899
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.5507
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 72.2101
+Porcentaje: 52
+
+Dia: 139
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 88.3094
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 19.6475
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.6043
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 72.4388
+Porcentaje: 52
+
+Dia: 140
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 88.1714
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 19.5071
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.6571
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 72.6643
+Porcentaje: 52
+
+Dia: 141
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 88.0355
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 19.3688
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.7092
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 72.8865
+Porcentaje: 52
+
+Dia: 142
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 87.9014
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 19.2324
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.7606
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 73.1056
+Porcentaje: 52
+
+Dia: 143
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 87.7692
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 19.0979
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.8112
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 73.3217
+Porcentaje: 52
+
+Dia: 144
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 87.6389
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 18.9653
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.8611
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 73.5347
+Porcentaje: 52
+
+Dia: 145
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 87.5103
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 18.8345
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.9103
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 73.7448
+Porcentaje: 52
+
+Dia: 146
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 87.3836
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 18.7055
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 19.9589
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 73.9521
+Porcentaje: 52
+
+Dia: 147
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 87.2585
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 18.5782
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.0068
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 74.1565
+Porcentaje: 52
+
+Dia: 148
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 87.1351
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 18.4527
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.0541
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 74.3581
+Porcentaje: 52
+
+Dia: 149
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 87.0134
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 18.3289
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.1007
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 74.557
+Porcentaje: 52
+
+Dia: 150
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 86.8933
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 18.2067
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.1467
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 74.7533
+Porcentaje: 52
+
+Dia: 151
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 86.7748
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 18.0861
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.1921
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 74.947
+Porcentaje: 52
+
+Dia: 152
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 86.6579
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.9671
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.2368
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 75.1382
+Porcentaje: 52
+
+Dia: 153
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 86.5425
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.8497
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.281
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 75.3268
+Porcentaje: 52
+
+Dia: 154
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 86.4286
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.7338
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.3247
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 75.513
+Porcentaje: 52
+
+Dia: 155
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 86.3161
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.6194
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.3677
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 75.6968
+Porcentaje: 52
+
+Dia: 156
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 86.2051
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.5064
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.4103
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 75.8782
+Porcentaje: 52
+
+Dia: 157
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 86.0955
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.3949
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.4522
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 76.0573
+Porcentaje: 52
+
+Dia: 158
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.9873
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.2848
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.4937
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 76.2342
+Porcentaje: 52
+
+Dia: 159
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.8805
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.1761
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.5346
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 76.4088
+Porcentaje: 52
+
+Dia: 160
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.775
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 17.0688
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.575
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 76.5812
+Porcentaje: 52
+
+Dia: 161
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.6708
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.9627
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.6149
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 76.7516
+Porcentaje: 52
+
+Dia: 162
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.5679
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.858
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.6543
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 76.9198
+Porcentaje: 52
+
+Dia: 163
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.4663
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.7546
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.6933
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 77.0859
+Porcentaje: 52
+
+Dia: 164
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.3659
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.6524
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.7317
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 77.25
+Porcentaje: 52
+
+Dia: 165
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.2667
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.5515
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.7697
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 77.4121
+Porcentaje: 52
+
+Dia: 166
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.1687
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.4518
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.8072
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 77.5723
+Porcentaje: 52
+
+Dia: 167
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 85.0719
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.3533
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.8443
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 77.7305
+Porcentaje: 52
+
+Dia: 168
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.9762
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.256
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.881
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 77.8869
+Porcentaje: 52
+
+Dia: 169
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.8817
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.1598
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.9172
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 78.0414
+Porcentaje: 52
+
+Dia: 170
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.7882
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 16.0647
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.9529
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 78.1941
+Porcentaje: 52
+
+Dia: 171
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.6959
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.9708
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 20.9883
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 78.345
+Porcentaje: 52
+
+Dia: 172
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.6047
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.8779
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.0233
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 78.4942
+Porcentaje: 52
+
+Dia: 173
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.5145
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.7861
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.0578
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 78.6416
+Porcentaje: 52
+
+Dia: 174
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.4253
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.6954
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.092
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 78.7874
+Porcentaje: 52
+
+Dia: 175
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.3371
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.6057
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.1257
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 78.9314
+Porcentaje: 52
+
+Dia: 176
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.25
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.517
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.1591
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 79.0739
+Porcentaje: 52
+
+Dia: 177
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.1638
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.4294
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.1921
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 79.2147
+Porcentaje: 52
+
+Dia: 178
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 84.0787
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.3427
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.2247
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 79.3539
+Porcentaje: 52
+
+Dia: 179
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.9944
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.257
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.257
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 79.4916
+Porcentaje: 52
+
+Dia: 180
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.9111
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.1722
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.2889
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 79.6278
+Porcentaje: 52
+
+Dia: 181
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.8287
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.0884
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.3204
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 79.7624
+Porcentaje: 52
+
+Dia: 182
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.7473
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 15.0055
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.3516
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 79.8956
+Porcentaje: 52
+
+Dia: 183
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.6667
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.9235
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.3825
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 80.0273
+Porcentaje: 52
+
+Dia: 184
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.587
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.8424
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.413
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 80.1576
+Porcentaje: 52
+
+Dia: 185
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.5081
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.7622
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.4432
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 80.2865
+Porcentaje: 52
+
+Dia: 186
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.4301
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.6828
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.4731
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 80.414
+Porcentaje: 52
+
+Dia: 187
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.3529
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.6043
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.5027
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 80.5401
+Porcentaje: 52
+
+Dia: 188
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.2766
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.5266
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.5319
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 80.6649
+Porcentaje: 52
+
+Dia: 189
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.2011
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.4497
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.5608
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 80.7884
+Porcentaje: 52
+
+Dia: 190
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.1263
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.3737
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.5895
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 80.9105
+Porcentaje: 52
+
+Dia: 191
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 83.0524
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.2984
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.6178
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.0314
+Porcentaje: 52
+
+Dia: 192
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.9792
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.224
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.6458
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.151
+Porcentaje: 52
+
+Dia: 193
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.9067
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.1503
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.6736
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.2694
+Porcentaje: 52
+
+Dia: 194
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.8351
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.0773
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.701
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.3866
+Porcentaje: 52
+
+Dia: 195
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.7641
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 14.0051
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.7282
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.5026
+Porcentaje: 52
+
+Dia: 196
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.6939
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.9337
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.7551
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.6173
+Porcentaje: 52
+
+Dia: 197
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.6244
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.8629
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.7817
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.731
+Porcentaje: 52
+
+Dia: 198
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.5556
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.7929
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.8081
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.8434
+Porcentaje: 52
+
+Dia: 199
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.4874
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.7236
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.8342
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 81.9548
+Porcentaje: 52
+
+Dia: 200
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.42
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.655
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.86
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.065
+Porcentaje: 52
+
+Dia: 201
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.3532
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.5871
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.8856
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.1741
+Porcentaje: 52
+
+Dia: 202
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.2871
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.5198
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.9109
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.2822
+Porcentaje: 52
+
+Dia: 203
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.2217
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.4532
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.936
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.3892
+Porcentaje: 52
+
+Dia: 204
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.1569
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.3873
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.9608
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.4951
+Porcentaje: 52
+
+Dia: 205
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.0927
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.322
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 21.9854
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.6
+Porcentaje: 52
+
+Dia: 206
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 82.0291
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.2573
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.0097
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.7039
+Porcentaje: 52
+
+Dia: 207
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.9662
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.1932
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.0338
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.8068
+Porcentaje: 52
+
+Dia: 208
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.9038
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.1298
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.0577
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 82.9087
+Porcentaje: 52
+
+Dia: 209
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.8421
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.067
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.0813
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.0096
+Porcentaje: 52
+
+Dia: 210
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.781
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 13.0048
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.1048
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.1095
+Porcentaje: 52
+
+Dia: 211
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.7204
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.9431
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.128
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.2085
+Porcentaje: 52
+
+Dia: 212
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.6604
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.8821
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.1509
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.3066
+Porcentaje: 52
+
+Dia: 213
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.6009
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.8216
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.1737
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.4038
+Porcentaje: 52
+
+Dia: 214
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.5421
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.7617
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.1963
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.5
+Porcentaje: 52
+
+Dia: 215
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.4837
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.7023
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.2186
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.5953
+Porcentaje: 52
+
+Dia: 216
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.4259
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.6435
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.2407
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.6898
+Porcentaje: 52
+
+Dia: 217
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.3687
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.5853
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.2627
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.7834
+Porcentaje: 52
+
+Dia: 218
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.3119
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.5275
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.2844
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.8761
+Porcentaje: 52
+
+Dia: 219
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.2557
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.4703
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.3059
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 83.968
+Porcentaje: 52
+
+Dia: 220
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.2
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.4136
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.3273
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.0591
+Porcentaje: 52
+
+Dia: 221
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.1448
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.3575
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.3484
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.1493
+Porcentaje: 52
+
+Dia: 222
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.0901
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.3018
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.3694
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.2387
+Porcentaje: 52
+
+Dia: 223
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 81.0359
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.2466
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.3901
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.3274
+Porcentaje: 52
+
+Dia: 224
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.9821
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.192
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.4107
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.4152
+Porcentaje: 52
+
+Dia: 225
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.9289
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.1378
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.4311
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.5022
+Porcentaje: 52
+
+Dia: 226
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.8761
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.0841
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.4513
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.5885
+Porcentaje: 52
+
+Dia: 227
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.8238
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 12.0308
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.4714
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.674
+Porcentaje: 52
+
+Dia: 228
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.7719
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.9781
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.4912
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.7588
+Porcentaje: 52
+
+Dia: 229
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.7205
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.9258
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.5109
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.8428
+Porcentaje: 52
+
+Dia: 230
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.6696
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.8739
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.5304
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 84.9261
+Porcentaje: 52
+
+Dia: 231
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.619
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.8225
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.5498
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.0087
+Porcentaje: 52
+
+Dia: 232
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.569
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.7716
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.569
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.0905
+Porcentaje: 52
+
+Dia: 233
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.5193
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.721
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.588
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.1717
+Porcentaje: 52
+
+Dia: 234
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.4701
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.6709
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.6068
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.2521
+Porcentaje: 52
+
+Dia: 235
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.4213
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.6213
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.6255
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.3319
+Porcentaje: 52
+
+Dia: 236
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.3729
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.572
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.6441
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.411
+Porcentaje: 52
+
+Dia: 237
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.3249
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.5232
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.6624
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.4895
+Porcentaje: 52
+
+Dia: 238
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.2773
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.4748
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.6807
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.5672
+Porcentaje: 52
+
+Dia: 239
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.2301
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.4268
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.6987
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.6444
+Porcentaje: 52
+
+Dia: 240
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.1833
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.3792
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.7167
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.7208
+Porcentaje: 52
+
+Dia: 241
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.1369
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.332
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.7344
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.7967
+Porcentaje: 52
+
+Dia: 242
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.0909
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.2851
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.7521
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.8719
+Porcentaje: 52
+
+Dia: 243
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80.0453
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.2387
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.7695
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 85.9465
+Porcentaje: 52
+
+Dia: 244
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 80
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.1926
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.7869
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.0205
+Porcentaje: 52
+
+Dia: 245
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.9551
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.1469
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.8041
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.0939
+Porcentaje: 52
+
+Dia: 246
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.9106
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.1016
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.8211
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.1667
+Porcentaje: 52
+
+Dia: 247
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.8664
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.0567
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.8381
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.2389
+Porcentaje: 52
+
+Dia: 248
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.8226
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 11.0121
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.8548
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.3105
+Porcentaje: 52
+
+Dia: 249
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.7791
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.9679
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.8715
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.3815
+Porcentaje: 52
+
+Dia: 250
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.736
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.924
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.888
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.452
+Porcentaje: 52
+
+Dia: 251
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.6932
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.8805
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.9044
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.5219
+Porcentaje: 52
+
+Dia: 252
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.6508
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.8373
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.9206
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.5913
+Porcentaje: 52
+
+Dia: 253
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.6087
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.7945
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.9368
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.6601
+Porcentaje: 52
+
+Dia: 254
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.5669
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.752
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.9528
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.7283
+Porcentaje: 52
+
+Dia: 255
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.5255
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.7098
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.9686
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.7961
+Porcentaje: 52
+
+Dia: 256
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.4844
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.668
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 22.9844
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.8633
+Porcentaje: 52
+
+Dia: 257
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.4436
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.6265
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.93
+Porcentaje: 52
+
+Dia: 258
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.4031
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.5853
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.0155
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 86.9961
+Porcentaje: 52
+
+Dia: 259
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.3629
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.5444
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.0309
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.0618
+Porcentaje: 52
+
+Dia: 260
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.3231
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.5038
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.0462
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.1269
+Porcentaje: 52
+
+Dia: 261
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.2835
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.4636
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.0613
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.1916
+Porcentaje: 52
+
+Dia: 262
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.2443
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.4237
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.0763
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.2557
+Porcentaje: 52
+
+Dia: 263
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.2053
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.384
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.0913
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.3194
+Porcentaje: 52
+
+Dia: 264
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.1667
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.3447
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.1061
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.3826
+Porcentaje: 52
+
+Dia: 265
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.1283
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.3057
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.1208
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.4453
+Porcentaje: 52
+
+Dia: 266
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.0902
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.2669
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.1353
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.5075
+Porcentaje: 52
+
+Dia: 267
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.0524
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.2285
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.1498
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.5693
+Porcentaje: 52
+
+Dia: 268
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 79.0149
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.1903
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.1642
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.6306
+Porcentaje: 52
+
+Dia: 269
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.9777
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.1524
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.1784
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.6914
+Porcentaje: 52
+
+Dia: 270
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.9407
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.1148
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.1926
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.7519
+Porcentaje: 52
+
+Dia: 271
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.9041
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.0775
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.2066
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.8118
+Porcentaje: 52
+
+Dia: 272
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.8676
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.0404
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.2206
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.8713
+Porcentaje: 52
+
+Dia: 273
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.8315
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 10.0037
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.2344
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.9304
+Porcentaje: 52
+
+Dia: 274
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.7956
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.96715
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.2482
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 87.9891
+Porcentaje: 52
+
+Dia: 275
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.76
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.93091
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.2618
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.0473
+Porcentaje: 52
+
+Dia: 276
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.7246
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.89493
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.2754
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.1051
+Porcentaje: 52
+
+Dia: 277
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.6895
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.85921
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.2888
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.1625
+Porcentaje: 52
+
+Dia: 278
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.6547
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.82374
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.3022
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.2194
+Porcentaje: 52
+
+Dia: 279
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.6201
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.78853
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.3154
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.276
+Porcentaje: 52
+
+Dia: 280
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.5857
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.75357
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.3286
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.3321
+Porcentaje: 52
+
+Dia: 281
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.5516
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.71886
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.3416
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.3879
+Porcentaje: 52
+
+Dia: 282
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.5177
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.6844
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.3546
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.4433
+Porcentaje: 52
+
+Dia: 283
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.4841
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.65018
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.3675
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.4982
+Porcentaje: 52
+
+Dia: 284
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.4507
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.6162
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.3803
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.5528
+Porcentaje: 52
+
+Dia: 285
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.4175
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.58246
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.393
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.607
+Porcentaje: 52
+
+Dia: 286
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.3846
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.54895
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.4056
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.6608
+Porcentaje: 52
+
+Dia: 287
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.3519
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.51568
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.4181
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.7143
+Porcentaje: 52
+
+Dia: 288
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.3194
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.48264
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.4306
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.7674
+Porcentaje: 52
+
+Dia: 289
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.2872
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.44983
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.4429
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.8201
+Porcentaje: 52
+
+Dia: 290
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.2552
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.41724
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.4552
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.8724
+Porcentaje: 52
+
+Dia: 291
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.2234
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.38488
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.4674
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.9244
+Porcentaje: 52
+
+Dia: 292
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.1918
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.35274
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.4795
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 88.976
+Porcentaje: 52
+
+Dia: 293
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.1604
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.32082
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.4915
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 89.0273
+Porcentaje: 52
+
+Dia: 294
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.1293
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.28912
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.5034
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 89.0782
+Porcentaje: 52
+
+Dia: 295
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.0983
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.25763
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.5153
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 89.1288
+Porcentaje: 52
+
+Dia: 296
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.0676
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.22635
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.527
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 89.1791
+Porcentaje: 52
+
+Dia: 297
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.037
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.19529
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.5387
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 89.229
+Porcentaje: 52
+
+Dia: 298
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 78.0067
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.16443
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.5503
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 89.2785
+Porcentaje: 52
+
+Dia: 299
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 77.9766
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.13378
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.5619
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 89.3278
+Porcentaje: 52
+
+Dia: 300
+Cantidad total de Susceptibles: 69
+Promedio de Personas Susceptibles: 77.9467
+Porcentaje: 34
+Cantidad total de Infectados: 0
+Promedio de Personas Infectadas: 9.10333
+Porcentaje: 0
+Cantidad total de Muertos: 27
+Promedio de Personas Muertas: 23.5733
+Porcentaje: 13
+Cantidad total de Recuperados: 104
+Promedio de Personas Recuperadas: 89.3767
+Porcentaje: 52
+

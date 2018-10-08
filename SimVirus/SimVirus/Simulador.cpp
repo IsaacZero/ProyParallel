@@ -8,7 +8,7 @@ Simulador::Simulador()
 
 Simulador::Simulador(int personas, int infectados, int cntMuerte, double potInfecc, double potRecup, int tamaño) {
 	cantPersonas = personas;
-	cantInfectados = infectados;
+	cantInfectados = (personas * infectados)/100;
 	probaInfec = potInfecc;
 	probaRecup = potRecup;
 	ticsBeforeDoom = cntMuerte;
@@ -30,7 +30,7 @@ Simulador::Simulador(int personas, int infectados, int cntMuerte, double potInfe
 		x = distribution(generator);
 		y = distribution(generator);
 		ciudadano.setPosicion(x, y);
-		if (i < infectados) {
+		if (i < cantInfectados) {
 			ciudadano.setEstado(1);
 #pragma omp atomic
 			cuadriculaDeInfeccion[x][y]++;
@@ -104,27 +104,28 @@ void Simulador::calcularInfeciones() {
 		}
 		//
 		else if (civilizacion[i].getEstado() == 1) {
-			x = distribution(generator);
-			if (x <= probaRecup) {
-				civilizacion[i].setEstado(2);
-#pragma omp atomic
-				cantRecuperados++;
-#pragma omp atomic
-				cantInfectados--;
-#pragma omp atomic
-				cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second]--;
-			}
-			else
-				civilizacion[i].setContadorEnfermo(civilizacion[i].getContadorEnfermo() + 1);
 			if (civilizacion[i].getContadorEnfermo() == ticsBeforeDoom) {
-				civilizacion[i].setEstado(3);
+				x = distribution(generator);
+				if (x <= probaRecup) {
+					civilizacion[i].setEstado(2);
 #pragma omp atomic
-				cantMuertos++;
+					cantInfectados--;
 #pragma omp atomic
-				cantInfectados--;
+					cantRecuperados++;
 #pragma omp atomic
-				cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second]--;
+					cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second]--;
+				}
+				else {
+					civilizacion[i].setEstado(3);
+#pragma omp atomic
+					cantInfectados--;
+#pragma omp atomic
+					cantMuertos++;
+#pragma omp atomic
+					cuadriculaDeInfeccion[civilizacion[i].getPosicion().first][civilizacion[i].getPosicion().second]--;
+				}
 			}
+			civilizacion[i].setContadorEnfermo(civilizacion[i].getContadorEnfermo() + 1);
 		}
 	}
 }

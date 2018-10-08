@@ -21,10 +21,10 @@ int main(int argc, char* argv[]) {
 	int size, susceptiblesTic, personas, infectados, totalTics, cntMuerte, susceptibles, muertos, recuperados;
 	double potInfecc, potRecup;
 	string nombreArchivo;
-	double promInfec = 0.0;
-	double promRecup = 0.0;
-	double promMuertos = 0.0;
-	double promCantPersonas = 0.0;
+	double percInfec = 0.0;
+	double percRecup = 0.0;
+	double percMuertos = 0.0;
+	double percSusceptibles = 0.0;
 	infectados = muertos = susceptiblesTic = recuperados = susceptibles = 0;
 	while (!validaCntInfectados(infectados) || !validaCntPersonas(personas) || !validaCntTics(totalTics) ||
 		!validaProbRec(potRecup) || !validaProInfec(potInfecc) || !validaSize(size) || !validaCntMuerte(cntMuerte)) {
@@ -87,19 +87,23 @@ int main(int argc, char* argv[]) {
 		recuperados += matrix.getCantRecup();
 		susceptibles += personas - matrix.getCantMuertos() - matrix.getCantInfect() - matrix.getCantRecup();
 		susceptiblesTic = personas - matrix.getCantMuertos() - matrix.getCantInfect() - matrix.getCantRecup();
-		promCantPersonas += (susceptiblesTic * 100) / personas;
-		promInfec += (matrix.getCantInfect() * 100) / personas;
-		promMuertos += (matrix.getCantMuertos() * 100) / personas;
-		promRecup += (matrix.getCantRecup() * 100) / personas;
+		percSusceptibles = (susceptiblesTic * 100) / personas;
+		percInfec = (matrix.getCantInfect() * 100) / personas;
+		percMuertos = (matrix.getCantMuertos() * 100) / personas;
+		percRecup = (matrix.getCantRecup() * 100) / personas;
 		archivoSalida << "Dia: " << i << endl;
+		archivoSalida << "Cantidad total de Susceptibles: " << susceptiblesTic << endl;
 		archivoSalida << "Promedio de Personas Susceptibles: " << (double(susceptibles) / i) << endl;
-		archivoSalida << "Promedio del Porcentaje: " << (double(promCantPersonas) / i) << endl;
+		archivoSalida << "Porcentaje: " << percSusceptibles << endl;
+		archivoSalida << "Cantidad total de Infectados: " << matrix.getCantInfect() << endl;
 		archivoSalida << "Promedio de Personas Infectadas: " << (double(infectados) / i) << endl;
-		archivoSalida << "Promedio del Porcentaje: " << (double(promInfec) / i) << endl;
+		archivoSalida << "Porcentaje: " << percInfec << endl;
+		archivoSalida << "Cantidad total de Muertos: " << matrix.getCantMuertos() << endl;
 		archivoSalida << "Promedio de Personas Muertas: " << (double(muertos) / i) << endl;
-		archivoSalida << "Promedio del Porcentaje: " << (double(promMuertos) / i) << endl;
+		archivoSalida << "Porcentaje: " << percMuertos << endl;
+		archivoSalida << "Cantidad total de Recuperados: " << matrix.getCantRecup() << endl;
 		archivoSalida << "Promedio de Personas Recuperadas: " << (double(recuperados) / i) << endl;
-		archivoSalida << "Promedio del Porcentaje: " << (double(promRecup) / i) << endl;
+		archivoSalida << "Porcentaje: " << percRecup << endl;
 		archivoSalida << endl;
 	}
 	cin >> personas;

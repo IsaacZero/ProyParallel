@@ -8,6 +8,7 @@ Persona::Persona()
 Persona::Persona(int X, int Y, int estadoInicial) {
 	estado = estadoInicial;
 	posicion = make_pair(X, Y);
+	contadorEnfermo = 1;
 }
 
 Persona::~Persona()
